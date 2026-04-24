@@ -60,7 +60,17 @@ Buddy: "Yes! Everything **will** be okay."
 ```
 
 🎁 초등학생용 특별 보상
-- **미래의 지도**: 타워가 고쳐진 후 평화로운 세상의 모습을 보여주는 지도입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "미래의_지도",
+      "name": "미래의 지도",
+      "description": "타워가 고쳐진 후 평화로운 세상의 모습을 보여주는 지도입니다."
+    }
+  ]
+}
+```
 Buddy: "I believe in your dream. Let's make it happen!"
 (네 꿈을 믿어. 꼭 그렇게 만들자!)

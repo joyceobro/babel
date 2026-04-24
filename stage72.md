@@ -60,8 +60,24 @@ Buddy: "You are right. **True** or **false**... you know the facts!"
 ```
 
 🎁 초등학생용 특별 보상
-- **참/거짓 깃발**: 정답을 맞힐 때 흔드는 예쁜 깃발 세트입니다.
-- **정직한 탐험가 배지**: "진실을 잘 구별해내는 친구" 배지입니다.
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "true_false_flag",
+      "name": "참/거짓 깃발",
+      "description": "정답을 맞힐 때 흔드는 예쁜 깃발 세트입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "honest_explorer_badge_stage72",
+      "name": "정직한 탐험가 배지",
+      "description": "\"진실을 잘 구별해내는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 
 Buddy: "You are very sharp. Let's find more facts!"
 (넌 정말 예리하구나. 더 많은 사실들을 찾아보자!)

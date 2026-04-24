@@ -60,8 +60,23 @@ Buddy: "Sometimes **slow** is better than **fast**. Remember that!"
 ```
 
 🎁 초등학생용 특별 보상
-- **초고속 부스터**: 무엇이든 빠르게 만들어주는 마법의 장치입니다.
-- **거북이와 토끼 배지**: "속도보다 중요한 것을 아는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "초고속_부스터",
+      "name": "초고속 부스터",
+      "description": "무엇이든 빠르게 만들어주는 마법의 장치입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "거북이와_토끼_badge_stage69",
+      "name": "거북이와 토끼 배지",
+      "description": "\"속도보다 중요한 것을 아는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "The race is over. Now, let's go to the memory room."
 (경주가 끝났어. 이제 기억의 방으로 가보자.)

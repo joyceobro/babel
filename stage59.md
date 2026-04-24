@@ -60,8 +60,27 @@ Buddy: "Good. **Helmet** and **gloves** keep you safe."
 ```
 
 🎁 초등학생용 특별 보상
-- **튼튼한 헬멧**: 머리를 안전하게 지켜주는 멋진 헬멧입니다.
-- **안전 제일 배지**: "안전 규칙을 잘 지키는 친구" 배지입니다.
-
-Buddy: "You look like a real professional now! We are almost at the Laboratory."
-(넌 이제 진짜 전문가처럼 보여! 이제 곧 실험실에 도착해.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "튼튼한_헬멧",
+      "name": "튼튼한 헬멧",
+      "description": "머리를 안전하게 지켜주는 멋진 헬멧입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "안전_제일_badge_stage59",
+      "name": "안전 제일 배지",
+      "description": "\"안전 규칙을 잘 지키는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"You look like a real professional now! We are almost at the Laboratory.\""
+    }
+  ]
+}
+```

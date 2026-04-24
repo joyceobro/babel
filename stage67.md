@@ -60,8 +60,27 @@ Buddy: "Yes, **trees**, **flowers**, and **leaves** all need water and light."
 ```
 
 🎁 초등학생용 특별 보상
-- **작은 화분**: 집에서 키울 수 있는 귀여운 식물 화분입니다.
-- **초록 천사 배지**: "자연을 아끼고 사랑하는 친구" 배지입니다.
-
-Buddy: "Plants give us fresh air. They are very important!"
-(식물들은 우리에게 신선한 공기를 줘. 정말 중요하단다!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "small_화분",
+      "name": "작은 화분",
+      "description": "집에서 키울 수 있는 귀여운 식물 화분입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "초록_천사_badge_stage67",
+      "name": "초록 천사 배지",
+      "description": "\"자연을 아끼고 사랑하는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Plants give us fresh air. They are very important!\""
+    }
+  ]
+}
+```

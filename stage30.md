@@ -60,8 +60,23 @@ Buddy: "Thank you! **I want** to find more treasures with you."
 ```
 
 🎁 초등학생용 특별 보상
-- **쇼핑 카트**: 물건을 가득 담을 수 있는 작은 쇼핑 카트입니다.
-- **알뜰 쇼핑 배지**: "필요한 것을 잘 고르는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "쇼핑_카트",
+      "name": "쇼핑 카트",
+      "description": "물건을 가득 담을 수 있는 작은 쇼핑 카트입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "알뜰_쇼핑_badge_stage30",
+      "name": "알뜰 쇼핑 배지",
+      "description": "\"필요한 것을 잘 고르는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "Let's put everything in the cart. Now, let's go to the checkout!"
 (카트에 다 담자. 이제 계산대로 가자!)

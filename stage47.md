@@ -60,8 +60,23 @@ You: "Don't worry. Your heart is always **clean**!"
 ```
 
 🎁 초등학생용 특별 보상
-- **반짝이는 걸레**: 먼지를 한 번에 닦아주는 신기한 걸레입니다.
-- **깔끔이 스티커**: "주변을 깨끗하게 정리하는 친구" 스티커입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "shiny_걸레",
+      "name": "반짝이는 걸레",
+      "description": "먼지를 한 번에 닦아주는 신기한 걸레입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "깔끔이_sticker_stage47",
+      "name": "깔끔이 스티커",
+      "description": "\"주변을 깨끗하게 정리하는 친구\" 스티커입니다."
+    }
+  ]
+}
+```
 Buddy: "A clean place makes me happy! Let's find what's inside the box."
 (깨끗한 곳에 있으니 기분이 좋아! 상자 안에 뭐가 들었는지 찾아보자.)

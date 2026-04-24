@@ -60,8 +60,27 @@ Buddy: "Yes, **turn off** the power now. Whew, it is quiet."
 ```
 
 🎁 초등학생용 특별 보상
-- **만능 스위치**: 무엇이든 켜고 끌 수 있는 신기한 스위치입니다.
-- **에너지 절약 배지**: "전기를 아껴 쓰는 친구" 배지입니다.
-
-Buddy: "You are getting used to these machines. Great job!"
-(너 이제 기계 다루는 게 익숙해졌구나. 잘했어!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "만능_스위치",
+      "name": "만능 스위치",
+      "description": "무엇이든 켜고 끌 수 있는 신기한 스위치입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "에너지_절약_badge_stage44",
+      "name": "에너지 절약 배지",
+      "description": "\"전기를 아껴 쓰는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"You are getting used to these machines. Great job!\""
+    }
+  ]
+}
+```

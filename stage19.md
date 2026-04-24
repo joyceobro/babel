@@ -60,8 +60,27 @@ You: "Okay, I will **wait**. Ten, nine, eight..."
 ```
 
 🎁 초등학생용 특별 보상
-- **모래시계**: 1분을 잴 수 있는 파란색 모래시계입니다.
-- **인내심 뱃지**: "기다릴 줄 아는 친구" 뱃지입니다.
-
-Buddy: "Ding! The elevator is here. You are very patient!"
-(딩동! 엘리베이터가 왔어. 넌 참 참을성이 많구나!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "모래시계",
+      "name": "모래시계",
+      "description": "1분을 잴 수 있는 파란색 모래시계입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "인내심_badge_stage19",
+      "name": "인내심 뱃지",
+      "description": "\"기다릴 줄 아는 친구\" 뱃지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Ding! The elevator is here. You are very patient!\""
+    }
+  ]
+}
+```

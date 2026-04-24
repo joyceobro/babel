@@ -60,8 +60,23 @@ Buddy: "One, two, three! Kick the ball!"
 ```
 
 🎁 초등학생용 특별 보상
-- **반짝이는 축구공**: 발로 차면 소리가 나는 멋진 축구공입니다.
-- **운동장 스타 배지**: "운동을 좋아하는 활기찬 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "shiny_축구공",
+      "name": "반짝이는 축구공",
+      "description": "발로 차면 소리가 나는 멋진 축구공입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "운동장_스타_badge_stage25",
+      "name": "운동장 스타 배지",
+      "description": "\"운동을 좋아하는 활기찬 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "Goal! You are a great soccer player! I'm so tired now."
 (골인! 너 축구 정말 잘한다! 나 이제 좀 지쳤어.)

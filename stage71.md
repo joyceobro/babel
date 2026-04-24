@@ -59,8 +59,27 @@ AI Robot: "Good! Your **answer** is correct. You are very smart."
 ```
 
 🎁 초등학생용 특별 보상
-- **골든벨**: 퀴즈를 맞히면 울리는 멋진 황금 종입니다.
-- **퀴즈 왕 배지**: "어떤 질문에도 척척 답하는 친구" 배지입니다.
-
-Buddy: "You answered so quickly! I am proud of you."
-(정말 빨리 대답했어! 네가 정말 자랑스러워.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "골든벨",
+      "name": "골든벨",
+      "description": "퀴즈를 맞히면 울리는 멋진 황금 종입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "퀴즈_왕_badge_stage71",
+      "name": "퀴즈 왕 배지",
+      "description": "\"어떤 질문에도 척척 답하는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"You answered so quickly! I am proud of you.\""
+    }
+  ]
+}
+```

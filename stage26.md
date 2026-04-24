@@ -60,8 +60,23 @@ You: "Wow! **This is** cool, and **that is** amazing!"
 ```
 
 🎁 초등학생용 특별 보상
-- **반짝이는 시계**: 시간을 알려주는 멋진 로봇 시계입니다.
-- **물음표 배지**: "호기심이 많은 똑똑한 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "shiny_시계",
+      "name": "반짝이는 시계",
+      "description": "시간을 알려주는 멋진 로봇 시계입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "물음표_badge_stage26",
+      "name": "물음표 배지",
+      "description": "\"호기심이 많은 똑똑한 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "There are so many things to see. Let's look at more shops!"
 (볼거리가 정말 많아. 다른 가게들도 더 둘러보자!)

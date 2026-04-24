@@ -60,8 +60,27 @@ Old Robot: "Yes, they **did**. They **were** very happy."
 ```
 
 🎁 초등학생용 특별 보상
-- **이야기 주머니**: 재미있는 이야기가 가득 담긴 주머니입니다.
-- **역사 탐험가 배지**: "과거의 이야기를 소중히 듣는 친구" 배지입니다.
-
-Buddy: "The world was so different! I want to know more."
-(세상은 정말 달랐구나! 더 알고 싶어.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "이야기_주머니",
+      "name": "이야기 주머니",
+      "description": "재미있는 이야기가 가득 담긴 주머니입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "역사_explorer_badge_stage63",
+      "name": "역사 탐험가 배지",
+      "description": "\"과거의 이야기를 소중히 듣는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"The world was so different! I want to know more.\""
+    }
+  ]
+}
+```

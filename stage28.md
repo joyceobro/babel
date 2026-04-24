@@ -60,8 +60,27 @@ Buddy: "Sure, let's ask the shopkeeper."
 ```
 
 🎁 초등학생용 특별 보상
-- **미니 로봇 피규어**: 버디를 닮은 아주 작은 로봇 인형입니다.
-- **장난감 수집가 배지**: "장난감을 좋아하는 친구" 배지입니다.
-
-Buddy: "The toy robot is so cool! It can even walk!"
-(장난감 로봇 정말 멋지다! 걷기도 해!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "미니_로봇_피규어",
+      "name": "미니 로봇 피규어",
+      "description": "버디를 닮은 아주 작은 로봇 인형입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "장난감_수집가_badge_stage28",
+      "name": "장난감 수집가 배지",
+      "description": "\"장난감을 좋아하는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"The toy robot is so cool! It can even walk!\""
+    }
+  ]
+}
+```

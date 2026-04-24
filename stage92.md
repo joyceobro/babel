@@ -79,8 +79,18 @@ Buddy: "Great! You are doing a good job!"
 ```
 
 [특별 보상]
-반짝이는 메달: 스테이지를 멋지게 클리어한 당신에게 주는 선물입니다!
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "shiny_medal",
+      "name": "반짝이는 메달",
+      "description": "스테이지를 멋지게 클리어한 당신에게 주는 선물입니다!"
+    }
+  ]
+}
+```
 [Closing]
 Buddy: "Wow! You finished Stage 92! You are getting better and better."
 (와! 92단계를 마쳤어! 점점 실력이 늘고 있구나.)

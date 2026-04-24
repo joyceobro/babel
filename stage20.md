@@ -60,8 +60,27 @@ You: "Wow, that was lucky. Thank you, sir!"
 ```
 
 🎁 초등학생용 특별 보상
-- **행운의 숫자 76 배지**: 경비 로봇이 준 특별한 배지입니다.
-- **로비 통과권**: 로비를 무사히 탈출했다는 증서입니다.
-
-Buddy: "Whew! That was close. Now we are in the Residential Area. Welcome!"
-(휴! 큰일 날 뻔했어. 이제 거주 구역에 도착했어. 환영해!)
+```json
+{
+  "rewards": [
+    {
+      "type": "sticker",
+      "id": "행운의_숫자_76_badge_stage20",
+      "name": "행운의 숫자 76 배지",
+      "description": "경비 로봇이 준 특별한 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "로비_통과권",
+      "name": "로비 통과권",
+      "description": "로비를 무사히 탈출했다는 증서입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Whew! That was close. Now we are in the Residential Area. Welcome!\""
+    }
+  ]
+}
+```

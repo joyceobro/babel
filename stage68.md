@@ -60,8 +60,23 @@ Buddy: "**Sunny**, **rainy**, or **cloudy**... the weather is always interesting
 ```
 
 🎁 초등학생용 특별 보상
-- **날씨 달력**: 매일매일 날씨를 스티커로 표시할 수 있는 달력입니다.
-- **기상 캐스터 배지**: "날씨를 잘 관찰하고 기록하는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "날씨_달력",
+      "name": "날씨 달력",
+      "description": "매일매일 날씨를 스티커로 표시할 수 있는 달력입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "기상_캐스터_badge_stage68",
+      "name": "기상 캐스터 배지",
+      "description": "\"날씨를 잘 관찰하고 기록하는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "The weather is changing again! Let's finish our work."
 (날씨가 또 변하고 있어! 우리 일을 마무리하자.)

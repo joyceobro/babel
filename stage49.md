@@ -60,8 +60,23 @@ Buddy: "Don't stay too long. You might get a **cold**!"
 ```
 
 🎁 초등학생용 특별 보상
-- **미니 선풍기**: 더울 때 시원한 바람을 만들어주는 선풍기입니다.
-- **온도 조절사 배지**: "온도 변화에 잘 적응하는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "미니_선풍기",
+      "name": "미니 선풍기",
+      "description": "더울 때 시원한 바람을 만들어주는 선풍기입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "온도_조절사_badge_stage49",
+      "name": "온도 조절사 배지",
+      "description": "\"온도 변화에 잘 적응하는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "You are right. Let's find a **warm** place now."
 (네 말이 맞아. 이제 **따뜻한** 곳을 찾아보자.)

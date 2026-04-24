@@ -60,8 +60,27 @@ Buddy: "Wow, there is even a robot **rabbit**! It can jump."
 ```
 
 🎁 초등학생용 특별 보상
-- **로봇 뼈다귀**: 강아지 로봇이 좋아하는 간식입니다.
-- **동물 친구 배지**: "동물을 사랑하는 친구" 배지입니다.
-
-Buddy: "The robot animals are our friends. They are so much fun!"
-(로봇 동물들은 우리의 친구야. 정말 재미있지!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "로봇_뼈다귀",
+      "name": "로봇 뼈다귀",
+      "description": "강아지 로봇이 좋아하는 간식입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "동물_친구_badge_stage24",
+      "name": "동물 친구 배지",
+      "description": "\"동물을 사랑하는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"The robot animals are our friends. They are so much fun!\""
+    }
+  ]
+}
+```

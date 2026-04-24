@@ -60,8 +60,23 @@ You: "We will help you. Stay here!"
 ```
 
 🎁 초등학생용 특별 보상
-- **구급상자**: 로봇들을 수리할 때 쓰는 도구들이 들어있습니다.
-- **착한 사마리아인 배지**: "아픈 친구를 먼저 챙기는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "구급상자",
+      "name": "구급상자",
+      "description": "로봇들을 수리할 때 쓰는 도구들이 들어있습니다."
+    },
+    {
+      "type": "sticker",
+      "id": "착한_사마리아인_badge_stage34",
+      "name": "착한 사마리아인 배지",
+      "description": "\"아픈 친구를 먼저 챙기는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "You are so kind. Let's find a repair kit for him!"
 (넌 참 친절하구나. 저 로봇을 위해 수리 도구를 찾아보자!)

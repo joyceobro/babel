@@ -60,8 +60,27 @@ Buddy: "He is very smart! He can help us."
 ```
 
 🎁 초등학생용 특별 보상
-- **만능 글러브**: 무엇이든 잘 할 수 있게 도와주는 장갑입니다.
-- **자신감 물약**: 마시면 목소리가 커지는 신비한 음료입니다.
-
-Buddy: "The door is open! Your English is better than mine!"
-(문이 열렸어! 네 영어 실력이 나보다 나은걸!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "만능_글러브",
+      "name": "만능 글러브",
+      "description": "무엇이든 잘 할 수 있게 도와주는 장갑입니다."
+    },
+    {
+      "type": "item",
+      "id": "자신감_물약",
+      "name": "자신감 물약",
+      "description": "마시면 목소리가 커지는 신비한 음료입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"The door is open! Your English is better than mine!\""
+    }
+  ]
+}
+```

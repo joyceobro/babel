@@ -60,8 +60,23 @@ Buddy: "Great! Now, if a bad robot comes, say 'Close!' very fast."
 ```
 
 🎁 초등학생용 특별 보상
-- **마법의 열쇠고리**: 문을 더 쉽게 열 수 있게 도와주는 행운의 열쇠고리입니다.
-- **문지기 스티커**: "문을 잘 여는 친구" 스티커를 받았습니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "마법의_열쇠고리",
+      "name": "마법의 열쇠고리",
+      "description": "문을 더 쉽게 열 수 있게 도와주는 행운의 열쇠고리입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "문지기_sticker_stage4",
+      "name": "문지기 스티커",
+      "description": "\"문을 잘 여는 친구\" 스티커를 받았습니다."
+    }
+  ]
+}
+```
 Buddy: "You are getting better at this! Open the door and let's go. Stay sharp!"
 (점점 실력이 늘고 있어! 문을 열고 가자. 정신 바짝 차리고!)

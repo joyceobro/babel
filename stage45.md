@@ -60,8 +60,23 @@ You: "Thank you! **Twelve o'clock** is perfect for me."
 ```
 
 🎁 초등학생용 특별 보상
-- **로봇 손목시계**: 정각마다 소리가 나는 귀여운 손목시계입니다.
-- **시간 엄수 배지 : "약속 시간을 잘 지키는 친구" 배지입니다.**
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "로봇_손목시계",
+      "name": "로봇 손목시계",
+      "description": "정각마다 소리가 나는 귀여운 손목시계입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "시간_엄수_badge_stage45",
+      "name": "- **시간 엄수 배지",
+      "description": "\"약속 시간을 잘 지키는 친구\" 배지입니다.**"
+    }
+  ]
+}
+```
 Buddy: "Time flies when we are together! Let's eat quickly."
 (함께 있으면 시간이 정말 빨리 가! 어서 먹자.)

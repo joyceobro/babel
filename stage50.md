@@ -60,8 +60,23 @@ You: "You are so kind. I will return them soon."
 ```
 
 🎁 초등학생용 특별 보상
-- **친절한 망치**: 무엇이든 잘 고칠 수 있는 튼튼한 망치입니다.
-- **신용 보장 배지**: "물건을 잘 돌려주는 믿음직한 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "kind_hammer",
+      "name": "친절한 망치",
+      "description": "무엇이든 잘 고칠 수 있는 튼튼한 망치입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "신용_보장_badge_stage50",
+      "name": "신용 보장 배지",
+      "description": "\"물건을 잘 돌려주는 믿음직한 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "Borrowing is fine, but returning is more important! Let's go fix the door."
 (빌리는 것도 좋지만, 돌려주는 게 더 중요해! 이제 문을 고치러 가자.)

@@ -60,8 +60,27 @@ Buddy: "Great! **Push** for 'Yes', and **Pull** for 'No'."
 ```
 
 🎁 초등학생용 특별 보상
-- **힘센 장갑**: 밀고 당기는 힘을 세게 해주는 장갑입니다.
-- **기계 조종사 면허증**: "기계를 잘 다루는 친구" 면허증입니다.
-
-Buddy: "You are strong! The machine is working perfectly now."
-(넌 힘이 정말 세구나! 기계가 이제 완벽하게 작동해.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "힘센_장갑",
+      "name": "힘센 장갑",
+      "description": "밀고 당기는 힘을 세게 해주는 장갑입니다."
+    },
+    {
+      "type": "item",
+      "id": "기계_조종사_면허증",
+      "name": "기계 조종사 면허증",
+      "description": "\"기계를 잘 다루는 친구\" 면허증입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"You are strong! The machine is working perfectly now.\""
+    }
+  ]
+}
+```

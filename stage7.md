@@ -60,8 +60,27 @@ Robot: "No, I am still sad. But if you find it, I will be very happy!"
 ```
 
 🎁 초등학생용 특별 보상
-- **미소 배지**: 친구를 도와주면 반짝이는 귀여운 배지입니다.
-- **분홍색 손수건**: 눈물을 닦아줄 수 있는 부드러운 손수건입니다.
-
-Buddy: "You are so kind. Finding the broom made us all happy!"
-(넌 참 착하구나. 빗자루를 찾아서 우리 모두 행복해졌어!)
+```json
+{
+  "rewards": [
+    {
+      "type": "sticker",
+      "id": "미소_badge_stage7",
+      "name": "미소 배지",
+      "description": "친구를 도와주면 반짝이는 귀여운 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "분홍색_손수건",
+      "name": "분홍색 손수건",
+      "description": "눈물을 닦아줄 수 있는 부드러운 손수건입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"You are so kind. Finding the broom made us all happy!\""
+    }
+  ]
+}
+```

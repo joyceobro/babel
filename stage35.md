@@ -60,8 +60,27 @@ You: "You're welcome! Have a nice day!"
 ```
 
 🎁 초등학생용 특별 보상
-- **나침반**: 길을 잃지 않게 도와주는 반짝이는 나침반입니다.
-- **인간 네비게이션 배지**: "길 안내를 잘하는 친구" 배지입니다.
-
-Buddy: "You are like a map! You know all the ways here."
-(넌 마치 지도 같아! 여기 길을 다 알고 있구나.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "나침반",
+      "name": "나침반",
+      "description": "길을 잃지 않게 도와주는 반짝이는 나침반입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "인간_네비게이션_badge_stage35",
+      "name": "인간 네비게이션 배지",
+      "description": "\"길 안내를 잘하는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"You are like a map! You know all the ways here.\""
+    }
+  ]
+}
+```

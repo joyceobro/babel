@@ -60,8 +60,23 @@ Buddy: "**Old** or **new**, everything is special!"
 ```
 
 🎁 초등학생용 특별 보상
-- **골동품 카메라**: 옛날 모습을 찍을 수 있는 오래된 카메라입니다.
-- **신구 조화 배지**: "옛것과 새것의 가치를 모두 아는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "골동품_카메라",
+      "name": "골동품 카메라",
+      "description": "옛날 모습을 찍을 수 있는 오래된 카메라입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "신구_조화_badge_stage76",
+      "name": "신구 조화 배지",
+      "description": "\"옛것과 새것의 가치를 모두 아는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "Let's use the new machine to read the old writing!"
 (새 기계를 이용해서 옛날 글씨를 읽어보자!)

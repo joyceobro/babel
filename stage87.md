@@ -60,7 +60,21 @@ You: "Everyone has something **special** in their heart."
 ```
 
 🎁 초등학생용 특별 보상
-- **하트 펜던트**: 소중한 것을 잊지 않게 해주는 아름다운 펜던트입니다.
-
-Buddy: "We are showing the Master AI what makes us special. Keep it up!"
-(우리가 무엇을 특별하게 만드는지 마스터 AI에게 보여주고 있어. 계속해!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "하트_펜던트",
+      "name": "하트 펜던트",
+      "description": "소중한 것을 잊지 않게 해주는 아름다운 펜던트입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"We are showing the Master AI what makes us special. Keep it up!\""
+    }
+  ]
+}
+```

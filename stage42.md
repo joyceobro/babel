@@ -60,8 +60,27 @@ Buddy: "You are right! Now let's pick them up."
 ```
 
 🎁 초등학생용 특별 보상
-- **마법의 집게**: 높은 곳에 있는 물건도 쉽게 집을 수 있는 집게입니다.
-- **정리 정돈 배지**: "물건의 위치를 잘 기억하는 친구" 배지입니다.
-
-Buddy: "You have a great memory! We found all the parts."
-(기억력이 정말 좋구나! 모든 부품을 다 찾았어.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "마법의_집게",
+      "name": "마법의 집게",
+      "description": "높은 곳에 있는 물건도 쉽게 집을 수 있는 집게입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "정리_정돈_badge_stage42",
+      "name": "정리 정돈 배지",
+      "description": "\"물건의 위치를 잘 기억하는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"You have a great memory! We found all the parts.\""
+    }
+  ]
+}
+```

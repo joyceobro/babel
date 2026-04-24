@@ -60,8 +60,27 @@ Buddy: "**I think** so, too. Let's go!"
 ```
 
 🎁 초등학생용 특별 보상
-- **토론용 마이크**: 내 의견을 당당하게 말할 수 있게 해주는 마이크입니다.
-- **생각쟁이 배지**: "자신의 생각을 잘 표현하는 친구" 배지입니다.
-
-Buddy: "Talking with you is always fun. You have great ideas!"
-(너랑 이야기하는 건 항상 즐거워. 넌 정말 좋은 생각을 가지고 있구나!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "토론용_마이크",
+      "name": "토론용 마이크",
+      "description": "내 의견을 당당하게 말할 수 있게 해주는 마이크입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "생각쟁이_badge_stage75",
+      "name": "생각쟁이 배지",
+      "description": "\"자신의 생각을 잘 표현하는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Talking with you is always fun. You have great ideas!\""
+    }
+  ]
+}
+```

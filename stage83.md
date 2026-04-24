@@ -60,7 +60,17 @@ Buddy: "Good job. We have to be fast now."
 ```
 
 🎁 초등학생용 특별 보상
-- **스피드 신발**: 신기만 해도 발걸음이 빨라지는 반짝이는 신발입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "스피드_신발",
+      "name": "스피드 신발",
+      "description": "신기만 해도 발걸음이 빨라지는 반짝이는 신발입니다."
+    }
+  ]
+}
+```
 Buddy: "We need to find the Master AI soon. Let's move!"
 (곧 마스터 AI를 찾아야 해. 움직이자!)

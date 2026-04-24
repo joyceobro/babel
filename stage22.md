@@ -60,8 +60,27 @@ You: "I like flowers, too! **Nice to meet you**, Rose!"
 ```
 
 🎁 초등학생용 특별 보상
-- **예쁜 장미 꽃 한 송이**: 로즈가 준 향기로운 꽃입니다.
-- **예절 왕 배지**: "인사를 잘하는 멋진 친구" 배지입니다.
-
-Buddy: "You are very polite! Everyone will like you here."
-(넌 참 예의가 바르구나! 여기 있는 모두가 널 좋아할 거야.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "예쁜_장미_꽃_한_송이",
+      "name": "예쁜 장미 꽃 한 송이",
+      "description": "로즈가 준 향기로운 꽃입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "예절_왕_badge_stage22",
+      "name": "예절 왕 배지",
+      "description": "\"인사를 잘하는 멋진 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"You are very polite! Everyone will like you here.\""
+    }
+  ]
+}
+```

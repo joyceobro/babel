@@ -60,8 +60,27 @@ Buddy: "Now the map is complete! We are a great team **together**."
 ```
 
 🎁 초등학생용 특별 보상
-- **퍼즐 마스터 박스**: 모든 조각을 다 모으면 열리는 보물 상자입니다.
-- **협동심 배지**: "친구와 힘을 합쳐 문제를 해결하는 친구" 배지입니다.
-
-Buddy: "Together we are strong! Now we know where the secret exit is."
-(함께하면 우린 강해! 이제 비밀 출구가 어디인지 알아.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "퍼즐_master_박스",
+      "name": "퍼즐 마스터 박스",
+      "description": "모든 조각을 다 모으면 열리는 보물 상자입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "협동심_badge_stage77",
+      "name": "협동심 배지",
+      "description": "\"친구와 힘을 합쳐 문제를 해결하는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Together we are strong! Now we know where the secret exit is.\""
+    }
+  ]
+}
+```

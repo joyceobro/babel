@@ -60,8 +60,23 @@ Baker Robot: "Sure! Here is your **bread** and **cookies**."
 ```
 
 🎁 초등학생용 특별 보상
-- **초코 쿠키**: 달콤한 냄새가 나는 초코 쿠키 아이템입니다.
-- **꼬마 파티쉐 배지**: "빵을 좋아하는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "초코_쿠키",
+      "name": "초코 쿠키",
+      "description": "달콤한 냄새가 나는 초코 쿠키 아이템입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "꼬마_파티쉐_badge_stage27",
+      "name": "꼬마 파티쉐 배지",
+      "description": "\"빵을 좋아하는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "The cookies look so good! Let's share them later."
 (쿠키 정말 맛있어 보인다! 나중에 같이 나눠 먹자.)

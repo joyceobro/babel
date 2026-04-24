@@ -60,8 +60,23 @@ Little Robot: "Thank you! You are so kind. Here, take this **Rusty Key Card**. I
 ```
 
 🎁 초등학생용 특별 보상
-- **녹슨 카드키**: 나중에 어딘가에 쓸 수 있을 것 같은 오래된 카드키입니다.
-- **나눔의 천사 배지**: 음식을 나눠준 착한 마음씨를 칭찬하는 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "녹슨_카드키",
+      "name": "녹슨 카드키",
+      "description": "나중에 어딘가에 쓸 수 있을 것 같은 오래된 카드키입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "나눔의_천사_badge_stage10",
+      "name": "나눔의 천사 배지",
+      "description": "음식을 나눠준 착한 마음씨를 칭찬하는 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "You are the best! Now we have a friend and a key card. Let's go to the next floor!"
 (네가 최고야! 이제 친구도 생기고 카드키도 얻었어. 다음 층으로 가자!)

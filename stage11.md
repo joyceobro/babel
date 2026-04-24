@@ -60,8 +60,23 @@ Buddy: "Great! Let's eat some bread and go."
 ```
 
 🎁 초등학생용 특별 보상
-- **맛있는 사과**: 에너지를 채워주는 빨간 사과입니다.
-- **미식가 배지**: "맛을 아는 친구" 배지를 얻었습니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "맛있는_사과",
+      "name": "맛있는 사과",
+      "description": "에너지를 채워주는 빨간 사과입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "미식가_badge_stage11",
+      "name": "미식가 배지",
+      "description": "\"맛을 아는 친구\" 배지를 얻었습니다."
+    }
+  ]
+}
+```
 Buddy: "Yum! That bread was delicious. Now I'm full!"
 (냠냠! 그 빵 정말 맛있었어. 이제 배부르다!)

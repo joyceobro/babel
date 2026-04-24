@@ -60,8 +60,27 @@ You: "You're welcome! **This is for you** because you are our friend."
 ```
 
 🎁 초등학생용 특별 보상
-- **예쁘게 포장된 상자**: 무엇이 들어있을지 궁금한 선물 상자입니다.
-- **친절한 마음 배지**: "베풀 줄 아는 따뜻한 친구" 배지입니다.
-
-Buddy: "Giving gifts is so much fun. Look how happy he is!"
-(선물을 주는 건 정말 즐거워. 저 로봇이 얼마나 행복해하는지 봐!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "예쁘게_포장된_상자",
+      "name": "예쁘게 포장된 상자",
+      "description": "무엇이 들어있을지 궁금한 선물 상자입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "kind_마음_badge_stage37",
+      "name": "친절한 마음 배지",
+      "description": "\"베풀 줄 아는 따뜻한 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Giving gifts is so much fun. Look how happy he is!\""
+    }
+  ]
+}
+```

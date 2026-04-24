@@ -60,8 +60,27 @@ Buddy: "Yes, it is not too **bright** and not too **dark**. Perfect!"
 ```
 
 🎁 초등학생용 특별 보상
-- **조절 가능한 전등**: 밝기를 마음대로 바꿀 수 있는 예쁜 전등입니다.
-- **빛의 수호자 배지**: "어둠 속에서 길을 찾는 친구" 배지입니다.
-
-Buddy: "Thank you for the light! Now I can see the door."
-(빛을 밝혀줘서 고마워! 이제 문이 보여.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "조절_가능한_전등",
+      "name": "조절 가능한 전등",
+      "description": "밝기를 마음대로 바꿀 수 있는 예쁜 전등입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "빛의_수호자_badge_stage48",
+      "name": "빛의 수호자 배지",
+      "description": "\"어둠 속에서 길을 찾는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Thank you for the light! Now I can see the door.\""
+    }
+  ]
+}
+```

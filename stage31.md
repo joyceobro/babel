@@ -60,8 +60,23 @@ Buddy: "We are ready to pay now!"
 ```
 
 🎁 초등학생용 특별 보상
-- **숫자 주사위**: 1부터 6까지 숫자가 적힌 예쁜 주사위입니다.
-- **수학 천재 배지**: "숫자를 잘 세는 똑똑한 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "숫자_주사위",
+      "name": "숫자 주사위",
+      "description": "1부터 6까지 숫자가 적힌 예쁜 주사위입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "수학_천재_badge_stage31",
+      "name": "수학 천재 배지",
+      "description": "\"숫자를 잘 세는 똑똑한 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "You are good at counting! It's our turn now."
 (너 숫자 정말 잘 세는구나! 이제 우리 차례야.)

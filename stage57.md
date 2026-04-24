@@ -60,8 +60,27 @@ You: "Okay. Let's wait for the **train** at the **station**."
 ```
 
 🎁 초등학생용 특별 보상
-- **기차 모형**: 주머니에 쏙 들어가는 귀여운 기차 장난감입니다.
-- **베스트 승객 배지**: "대중교통을 잘 이용하는 친구" 배지입니다.
-
-Buddy: "The train is coming! Get ready to jump on."
-(기차가 오고 있어! 탈 준비 해.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "기차_모형",
+      "name": "기차 모형",
+      "description": "주머니에 쏙 들어가는 귀여운 기차 장난감입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "베스트_승객_badge_stage57",
+      "name": "베스트 승객 배지",
+      "description": "\"대중교통을 잘 이용하는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"The train is coming! Get ready to jump on.\""
+    }
+  ]
+}
+```

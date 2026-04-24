@@ -60,8 +60,23 @@ Buddy: "Good. **Be quiet** and look at all these books!"
 ```
 
 🎁 초등학생용 특별 보상
-- **도서관 이용권**: 도서관의 모든 책을 빌릴 수 있는 카드입니다.
-- **예의 바른 독서가 배지**: "공공장소 규칙을 잘 지키는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "library_이용권",
+      "name": "도서관 이용권",
+      "description": "도서관의 모든 책을 빌릴 수 있는 카드입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "예의_바른_독서가_badge_stage61",
+      "name": "예의 바른 독서가 배지",
+      "description": "\"공공장소 규칙을 잘 지키는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "Now let's find a book about the tower's history."
 (이제 탑의 역사에 대한 책을 찾아보자.)

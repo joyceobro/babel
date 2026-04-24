@@ -63,7 +63,17 @@ You: "Don't worry, Buddy. Your past doesn't matter. You are a good robot now!"
 ```
 
 🎁 초등학생용 특별 보상
-- **마스터 코드**: 마스터 AI의 시스템에 접속할 수 있는 비밀스러운 코드입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "master_코드",
+      "name": "마스터 코드",
+      "description": "마스터 AI의 시스템에 접속할 수 있는 비밀스러운 코드입니다."
+    }
+  ]
+}
+```
 Buddy: "Thank you for understanding me. Now, let's stop the Master AI for real!"
 (나를 이해해줘서 고마워. 이제 마스터 AI를 정말로 멈추러 가자!)

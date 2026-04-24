@@ -79,8 +79,18 @@ Buddy: "Great! You are doing a good job!"
 ```
 
 [특별 보상]
-Babel Tower Master Badge (바벨 타워 마스터 배지): 스테이지를 멋지게 클리어한 당신에게 주는 선물입니다!
-
+```json
+{
+  "rewards": [
+    {
+      "type": "sticker",
+      "id": "babel_tower_master_badge_babel_tower_master_badge_stage100",
+      "name": "Babel Tower Master Badge (바벨 타워 마스터 배지)",
+      "description": "스테이지를 멋지게 클리어한 당신에게 주는 선물입니다!"
+    }
+  ]
+}
+```
 [Closing]
 Buddy: "Wow! You finished Stage 100! You are getting better and better."
 (와! 100단계를 마쳤어! 점점 실력이 늘고 있구나.)

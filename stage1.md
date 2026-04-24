@@ -66,8 +66,27 @@ Buddy: "I can help you. Let's go together. Follow me!"
 ```
 
 🎁 초등학생용 특별 보상
-- **버디의 사탕**: 버디가 기운을 내라며 반짝이는 사탕 아이템을 줍니다. (에너지 +1)
-- **칭찬 스티커**: "영어 천재의 탄생!" 스티커가 다이어리에 붙습니다.
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "buddy_candy",
+      "name": "버디의 사탕",
+      "description": "버디가 기운을 내라며 반짝이는 사탕 아이템을 줍니다.",
+      "effect": {
+        "energy": 1
+      }
+    },
+    {
+      "type": "sticker",
+      "id": "praise_sticker_stage1",
+      "name": "칭찬 스티커",
+      "description": "\"영어 천재의 탄생!\" 스티커가 다이어리에 붙습니다."
+    }
+  ]
+}
+```
 
 Buddy: "Good job! You are very smart. Now, walk quietly. There is a scary guard robot outside!"
 (잘했어! 넌 정말 똑똑하구나. 이제 조용히 걸어줘. 밖에 무서운 경비 로봇이 있거든!)

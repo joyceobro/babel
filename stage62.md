@@ -60,8 +60,27 @@ Buddy: "Sure. Read the **book** carefully."
 ```
 
 🎁 초등학생용 특별 보상
-- **반짝이는 책갈피**: 읽던 곳을 표시해주는 예쁜 책갈피입니다.
-- **독서왕 배지**: "책 읽기를 좋아하는 친구" 배지입니다.
-
-Buddy: "Books are like magic! They tell us everything."
-(책은 마법 같아! 우리에게 모든 걸 말해주거든.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "shiny_책갈피",
+      "name": "반짝이는 책갈피",
+      "description": "읽던 곳을 표시해주는 예쁜 책갈피입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "독서왕_badge_stage62",
+      "name": "독서왕 배지",
+      "description": "\"책 읽기를 좋아하는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Books are like magic! They tell us everything.\""
+    }
+  ]
+}
+```

@@ -60,8 +60,27 @@ Buddy: "Let's go to Zone 4. New adventures are waiting!"
 ```
 
 🎁 초등학생용 특별 보상
-- **산업 구역 마스터 메달**: Zone 3를 훌륭하게 통과한 친구에게 주는 메달입니다.
-- **연구원 가운**: 실험실 구역에서 입을 수 있는 하얀색 가운입니다.
-
-Buddy: "Welcome to Zone 4! The Laboratory and the Library are very quiet."
-(4구역에 온 걸 환영해! 실험실과 도서관은 아주 조용하단다.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "산업_구역_master_medal",
+      "name": "산업 구역 마스터 메달",
+      "description": "Zone 3를 훌륭하게 통과한 친구에게 주는 메달입니다."
+    },
+    {
+      "type": "item",
+      "id": "연구원_가운",
+      "name": "연구원 가운",
+      "description": "실험실 구역에서 입을 수 있는 하얀색 가운입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Welcome to Zone 4! The Laboratory and the Library are very quiet.\""
+    }
+  ]
+}
+```

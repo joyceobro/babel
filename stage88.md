@@ -60,7 +60,21 @@ Buddy: "No! People need to talk. **Can you hear my heart**?"
 ```
 
 🎁 초등학생용 특별 보상
-- **실버 확성기**: 목소리를 멀리까지 전달할 수 있는 반짝이는 확성기입니다.
-
-Buddy: "The Master AI is listening. This is our chance!"
-(마스터 AI가 듣고 있어. 지금이 기회야!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "실버_확성기",
+      "name": "실버 확성기",
+      "description": "목소리를 멀리까지 전달할 수 있는 반짝이는 확성기입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"The Master AI is listening. This is our chance!\""
+    }
+  ]
+}
+```

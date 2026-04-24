@@ -60,8 +60,23 @@ You: "Wow! **Ten** dollars is a lot. Here is **one** dollar for my apple."
 ```
 
 🎁 초등학생용 특별 보상
-- **반짝이는 동전**: 마트에서 받은 행운의 동전 아이템입니다.
-- **경제 박사 배지**: "가격을 잘 물어보는 똑똑한 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "shiny_동전",
+      "name": "반짝이는 동전",
+      "description": "마트에서 받은 행운의 동전 아이템입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "경제_doctor_badge_stage32",
+      "name": "경제 박사 배지",
+      "description": "\"가격을 잘 물어보는 똑똑한 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "Paying is easy when you know English! Let's go out now."
 (영어를 알면 계산하는 것도 정말 쉬워! 이제 밖으로 나가자.)

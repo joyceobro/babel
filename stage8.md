@@ -60,8 +60,27 @@ Buddy: "The **blue** can is for my legs. And the **yellow** one is for my eyes!"
 ```
 
 🎁 초등학생용 특별 보상
-- **무지개 페인트**: 무엇이든 예쁜 색으로 칠할 수 있는 페인트 세트입니다.
-- **에너지 배터리**: 버디를 충전해줄 수 있는 예비 배터리입니다.
-
-Buddy: "Thank you! I feel great now. My eyes are shining yellow!"
-(고마워! 이제 기분이 최고야. 내 눈이 노란색으로 반짝이고 있어!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "무지개_페인트",
+      "name": "무지개 페인트",
+      "description": "무엇이든 예쁜 색으로 칠할 수 있는 페인트 세트입니다."
+    },
+    {
+      "type": "item",
+      "id": "에너지_배터리",
+      "name": "에너지 배터리",
+      "description": "버디를 충전해줄 수 있는 예비 배터리입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Thank you! I feel great now. My eyes are shining yellow!\""
+    }
+  ]
+}
+```

@@ -60,8 +60,27 @@ Buddy: "Thank you! Let's go inside **my house**."
 ```
 
 🎁 초등학생용 특별 보상
-- **집 열쇠**: 버디의 집을 열 수 있는 귀여운 열쇠입니다.
-- **초대장**: "우리 집에 놀러 와!"라고 적힌 카드입니다.
-
-Buddy: "Now you know where I live! You are always welcome in my house."
-(이제 내가 어디 사는지 알았지! 넌 언제든 우리 집에 놀러 와도 좋아.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "집_열쇠",
+      "name": "집 열쇠",
+      "description": "버디의 집을 열 수 있는 귀여운 열쇠입니다."
+    },
+    {
+      "type": "item",
+      "id": "초대장",
+      "name": "초대장",
+      "description": "\"우리 집에 놀러 와!\"라고 적힌 카드입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Now you know where I live! You are always welcome in my house.\""
+    }
+  ]
+}
+```

@@ -60,8 +60,23 @@ Buddy: "Then say 'Stand!' and then 'Stop!'. It's a simple command."
 ```
 
 🎁 초등학생용 특별 보상
-- **정지 리모컨**: 로봇들을 잠시 멈추게 할 수 있는 신기한 리모컨입니다.
-- **부드러운 신발**: 소리를 내지 않고 걸을 수 있는 푹신한 신발입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "정지_리모컨",
+      "name": "정지 리모컨",
+      "description": "로봇들을 잠시 멈추게 할 수 있는 신기한 리모컨입니다."
+    },
+    {
+      "type": "item",
+      "id": "부드러운_신발",
+      "name": "부드러운 신발",
+      "description": "소리를 내지 않고 걸을 수 있는 푹신한 신발입니다."
+    }
+  ]
+}
+```
 Buddy: "Whew, it didn't wake up! You are a natural leader. Let's move to the next door."
 (휴, 로봇이 깨지 않았어! 넌 타고난 리더구나. 다음 문으로 가보자.)

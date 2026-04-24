@@ -60,7 +60,17 @@ Buddy: "I'll be fine. I just need a moment."
 ```
 
 🎁 초등학생용 특별 보상
-- **에너지 부스터**: 버디를 다시 쌩쌩하게 만들어줄 특별한 에너지 드링크입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "에너지_부스터",
+      "name": "에너지 부스터",
+      "description": "버디를 다시 쌩쌩하게 만들어줄 특별한 에너지 드링크입니다."
+    }
+  ]
+}
+```
 Buddy: "Thank you. I feel much better now. There's something I need to tell you."
 (고마워. 이제 훨씬 나아졌어. 네게 할 말이 있어.)

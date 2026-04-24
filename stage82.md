@@ -60,7 +60,21 @@ Buddy: "You are a brave explorer!"
 ```
 
 🎁 초등학생용 특별 보상
-- **구름 솜사탕**: 구름처럼 폭신폭신하고 달콤한 사탕입니다.
-
-Buddy: "We are almost at the top floor. Get ready!"
-(거의 꼭대기 층에 다 왔어. 준비해!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "구름_candy",
+      "name": "구름 솜사탕",
+      "description": "구름처럼 폭신폭신하고 달콤한 사탕입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"We are almost at the top floor. Get ready!\""
+    }
+  ]
+}
+```

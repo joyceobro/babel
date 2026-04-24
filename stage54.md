@@ -60,8 +60,23 @@ Buddy: "Speak in a **quiet** voice, please. The guards might hear us."
 ```
 
 🎁 초등학생용 특별 보상
-- **마법의 이어폰**: 시끄러운 소리를 막아주는 멋진 이어폰입니다.
-- **예의 바른 친구 배지**: "목소리 크기를 잘 조절하는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "마법의_이어폰",
+      "name": "마법의 이어폰",
+      "description": "시끄러운 소리를 막아주는 멋진 이어폰입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "예의_바른_친구_badge_stage54",
+      "name": "예의 바른 친구 배지",
+      "description": "\"목소리 크기를 잘 조절하는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "Shhh... let's move quietly to the secret door."
 (쉿... 비밀 문까지 조용히 이동하자.)

@@ -60,8 +60,27 @@ Buddy: "Great! You are very good at following orders."
 ```
 
 🎁 초등학생용 특별 보상
-- **순서 마법봉**: 순서를 헷갈리지 않게 도와주는 마법봉입니다.
-- **기억력 왕 배지**: "복잡한 순서도 척척 기억하는 친구" 배지입니다.
-
-Buddy: "The machine is starting! You did it perfectly."
-(기계가 작동하기 시작했어! 네가 완벽하게 해냈어.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "순서_마법봉",
+      "name": "순서 마법봉",
+      "description": "순서를 헷갈리지 않게 도와주는 마법봉입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "기억력_왕_badge_stage51",
+      "name": "기억력 왕 배지",
+      "description": "\"복잡한 순서도 척척 기억하는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"The machine is starting! You did it perfectly.\""
+    }
+  ]
+}
+```

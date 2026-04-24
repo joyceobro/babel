@@ -60,8 +60,23 @@ You: "Thank you, Buddy. Now I am happy."
 ```
 
 🎁 초등학생용 특별 보상
-- **파란색 텀블러**: 물을 담아 다닐 수 있는 시원한 색깔의 물통입니다.
-- **탐험가 모자**: 길을 잘 찾는 친구들을 위한 멋진 모자입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "파란색_텀블러",
+      "name": "파란색 텀블러",
+      "description": "물을 담아 다닐 수 있는 시원한 색깔의 물통입니다."
+    },
+    {
+      "type": "item",
+      "id": "explorer_hat",
+      "name": "탐험가 모자",
+      "description": "길을 잘 찾는 친구들을 위한 멋진 모자입니다."
+    }
+  ]
+}
+```
 Buddy: "Drinking water is important. Now, let's keep moving!"
 (물을 마시는 건 중요해. 이제 계속 움직이자!)

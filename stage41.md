@@ -60,8 +60,27 @@ Buddy: "Good. Look at that red light. It means '**Danger**'!"
 ```
 
 🎁 초등학생용 특별 보상
-- **안전 조끼**: 멀리서도 잘 보이는 반짝이는 노란색 조끼입니다.
-- **안전 요원 배지**: "위험을 잘 감지하는 똑똑한 친구" 배지입니다.
-
-Buddy: "Stay close to me. The industrial area is very busy!"
-(내 옆에 꼭 붙어 있어. 산업 구역은 아주 복잡하니까!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "안전_조끼",
+      "name": "안전 조끼",
+      "description": "멀리서도 잘 보이는 반짝이는 노란색 조끼입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "안전_요원_badge_stage41",
+      "name": "안전 요원 배지",
+      "description": "\"위험을 잘 감지하는 똑똑한 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Stay close to me. The industrial area is very busy!\""
+    }
+  ]
+}
+```

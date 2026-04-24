@@ -60,8 +60,23 @@ Buddy: "You have a very nice **face**!"
 ```
 
 🎁 초등학생용 특별 보상
-- **반짝이는 거울**: 내 모습을 비춰주는 예쁜 손거울입니다.
-- **멋쟁이 스티커**: "자기 자신을 아끼는 친구" 스티커입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "shiny_거울",
+      "name": "반짝이는 거울",
+      "description": "내 모습을 비춰주는 예쁜 손거울입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "멋쟁이_sticker_stage18",
+      "name": "멋쟁이 스티커",
+      "description": "\"자기 자신을 아끼는 친구\" 스티커입니다."
+    }
+  ]
+}
+```
 Buddy: "Your eyes are shining! Let's go to the elevator now."
 (네 눈이 반짝거려! 이제 엘리베이터로 가자.)

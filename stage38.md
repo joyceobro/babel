@@ -60,8 +60,27 @@ You: "Yeah! **Happy Birthday**!"
 ```
 
 🎁 초등학생용 특별 보상
-- **고깔모자**: 파티 분위기를 내주는 알록달록한 고깔모자입니다.
-- **파티 플래너 배지**: "축하를 진심으로 해주는 친구" 배지입니다.
-
-Buddy: "The cake was yummy! Now, the party is almost over."
-(케이크 정말 맛있었어! 이제 파티가 거의 끝나가네.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "hat",
+      "name": "고깔모자",
+      "description": "파티 분위기를 내주는 알록달록한 고깔모자입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "파티_플래너_badge_stage38",
+      "name": "파티 플래너 배지",
+      "description": "\"축하를 진심으로 해주는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"The cake was yummy! Now, the party is almost over.\""
+    }
+  ]
+}
+```

@@ -60,8 +60,23 @@ Buddy: "You look like a real explorer now!"
 ```
 
 🎁 초등학생용 특별 보상
-- **멋쟁이 탐험가 모자**: 해를 가려주는 멋진 노란색 모자입니다.
-- **베스트 드레서 스티커**: "옷을 잘 입는 친구" 스티커입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "멋쟁이_explorer_hat",
+      "name": "멋쟁이 탐험가 모자",
+      "description": "해를 가려주는 멋진 노란색 모자입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "베스트_드레서_sticker_stage29",
+      "name": "베스트 드레서 스티커",
+      "description": "\"옷을 잘 입는 친구\" 스티커입니다."
+    }
+  ]
+}
+```
 Buddy: "You look so cool! Let's go to the market next."
 (정말 멋지다! 다음은 마트에 가보자.)

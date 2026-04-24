@@ -60,7 +60,17 @@ Buddy: "Okay. If you are brave, I am brave, too. Let's go!"
 ```
 
 🎁 초등학생용 특별 보상
-- **용기의 훈장**: 용감한 마음을 가진 사람만 받을 수 있는 금빛 훈장입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "courage_훈장",
+      "name": "용기의 훈장",
+      "description": "용감한 마음을 가진 사람만 받을 수 있는 금빛 훈장입니다."
+    }
+  ]
+}
+```
 Buddy: "You are the bravest kid in the world. Let's face the Master AI together!"
 (넌 세상에서 제일 용감한 어린이야. 우리 같이 마스터 AI를 대면하자!)

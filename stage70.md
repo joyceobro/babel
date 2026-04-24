@@ -60,8 +60,23 @@ Buddy: "I will never **forget** our adventure together."
 ```
 
 🎁 초등학생용 특별 보상
-- **기억의 구슬**: 소중한 추억을 담아 보관할 수 있는 구슬입니다.
-- **암기왕 배지**: "중요한 정보를 잘 기억하는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "기억의_구슬",
+      "name": "기억의 구슬",
+      "description": "소중한 추억을 담아 보관할 수 있는 구슬입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "암기왕_badge_stage70",
+      "name": "암기왕 배지",
+      "description": "\"중요한 정보를 잘 기억하는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "You are a part of my best memories. Let's keep going!"
 (넌 내 최고의 기억 중 하나야. 계속 가자!)

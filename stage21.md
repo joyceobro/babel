@@ -60,8 +60,23 @@ You: "Okay! **Welcome** to my adventure!"
 ```
 
 🎁 초등학생용 특별 보상
-- **마을 지도**: 주거 지구의 지도가 그려진 종이입니다.
-- **명예 시민증**: "마을에 온 것을 환영받은 친구" 증서입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "마을_지도",
+      "name": "마을 지도",
+      "description": "주거 지구의 지도가 그려진 종이입니다."
+    },
+    {
+      "type": "item",
+      "id": "명예_시민증",
+      "name": "명예 시민증",
+      "description": "\"마을에 온 것을 환영받은 친구\" 증서입니다."
+    }
+  ]
+}
+```
 Buddy: "The robots here are very kind. Let's go meet some neighbors!"
 (여기 로봇들은 정말 친절해. 이웃들을 만나러 가보자!)

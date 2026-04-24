@@ -60,8 +60,23 @@ Buddy: "Great! I'm still **looking for** 'Friend'. Help me!"
 ```
 
 🎁 초등학생용 특별 보상
-- **탐정 돋보기**: 숨겨진 단어를 더 잘 볼 수 있게 해주는 돋보기입니다.
-- **명탐정 배지**: "어려운 문제도 잘 해결하는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "탐정_돋보기",
+      "name": "탐정 돋보기",
+      "description": "숨겨진 단어를 더 잘 볼 수 있게 해주는 돋보기입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "명탐정_badge_stage65",
+      "name": "명탐정 배지",
+      "description": "\"어려운 문제도 잘 해결하는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "You found 'Hope'! Now our journey is even better."
 ('희망'을 찾았구나! 이제 우리 여정이 더 멋져졌어.)

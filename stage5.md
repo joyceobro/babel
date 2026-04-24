@@ -60,8 +60,27 @@ Buddy: "Don't move. You are safe **behind** the box."
 ```
 
 🎁 초등학생용 특별 보상
-- **투명 망토 조각**: 몸을 살짝 가려주는 신비한 천 조각입니다.
-- **닌자 배지**: "은신술의 달인" 배지를 획득했습니다.
-
-Buddy: "The guard is gone. Good job! You stayed very quiet."
-(경비 로봇이 갔어. 잘했어! 정말 조용히 잘 있었구나.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "투명_망토_조각",
+      "name": "투명 망토 조각",
+      "description": "몸을 살짝 가려주는 신비한 천 조각입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "닌자_badge_stage5",
+      "name": "닌자 배지",
+      "description": "\"은신술의 달인\" 배지를 획득했습니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"The guard is gone. Good job! You stayed very quiet.\""
+    }
+  ]
+}
+```

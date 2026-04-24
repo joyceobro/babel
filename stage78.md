@@ -60,8 +60,23 @@ You: "I will write my own **diary**, too. It won't be a **secret** to you!"
 ```
 
 🎁 초등학생용 특별 보상
-- **자물쇠가 달린 일기장**: 비밀을 지켜주는 튼튼한 자물쇠 일기장입니다.
-- **비밀 요원 배지**: "중요한 비밀을 잘 간직하는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "자물쇠가_달린_일기장",
+      "name": "자물쇠가 달린 일기장",
+      "description": "비밀을 지켜주는 튼튼한 자물쇠 일기장입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "비밀_요원_badge_stage78",
+      "name": "비밀 요원 배지",
+      "description": "\"중요한 비밀을 잘 간직하는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "I am happy to be your best friend. Let's keep our secrets together!"
 (네 가장 친한 친구가 되어서 기뻐. 우리의 비밀을 함께 간직하자!)

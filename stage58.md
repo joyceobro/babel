@@ -60,8 +60,23 @@ Buddy: "Thank you! Now we have our **ticket**. Let's go!"
 ```
 
 🎁 초등학생용 특별 보상
-- **반짝이는 기차표**: 어디든 갈 수 있을 것 같은 황금색 기차표입니다.
-- **예의 바른 손님 배지**: "부탁을 잘하는 예의 바른 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "shiny_기차표",
+      "name": "반짝이는 기차표",
+      "description": "어디든 갈 수 있을 것 같은 황금색 기차표입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "예의_바른_손님_badge_stage58",
+      "name": "예의 바른 손님 배지",
+      "description": "\"부탁을 잘하는 예의 바른 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "Don't lose your ticket! The train is starting to move."
 (표 잃어버리지 마! 기차가 움직이기 시작해.)

@@ -60,8 +60,27 @@ Buddy: "Thank you! **Gear**, **screw**, and **tool**... perfect!"
 ```
 
 🎁 초등학생용 특별 보상
-- **꼬마 수리공 조끼**: 주머니가 많은 멋진 수리공 조끼입니다.
-- **도구 박사 배지**: "도구의 이름을 척척 맞히는 친구" 배지입니다.
-
-Buddy: "Now we can fix anything! You are a great assistant."
-(이제 뭐든지 고칠 수 있어! 넌 최고의 조수야.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "꼬마_수리공_조끼",
+      "name": "꼬마 수리공 조끼",
+      "description": "주머니가 많은 멋진 수리공 조끼입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "도구_doctor_badge_stage43",
+      "name": "도구 박사 배지",
+      "description": "\"도구의 이름을 척척 맞히는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Now we can fix anything! You are a great assistant.\""
+    }
+  ]
+}
+```

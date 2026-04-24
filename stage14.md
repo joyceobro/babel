@@ -60,8 +60,27 @@ Buddy: "Wait! **Listen** again. It's a small bird robot!"
 ```
 
 🎁 초등학생용 특별 보상
-- **황금 귀마개**: 작은 소리도 잘 들을 수 있게 해주는 귀마개입니다.
-- **소리 탐정 돋보기**: 소리의 근원지를 찾아주는 신기한 돋보기입니다.
-
-Buddy: "You have great ears! The bird robot is safe now."
-(넌 귀가 정말 밝구나! 새 로봇이 이제 안전해졌어.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "황금_귀마개",
+      "name": "황금 귀마개",
+      "description": "작은 소리도 잘 들을 수 있게 해주는 귀마개입니다."
+    },
+    {
+      "type": "item",
+      "id": "소리_탐정_돋보기",
+      "name": "소리 탐정 돋보기",
+      "description": "소리의 근원지를 찾아주는 신기한 돋보기입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"You have great ears! The bird robot is safe now.\""
+    }
+  ]
+}
+```

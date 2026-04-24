@@ -63,8 +63,23 @@ Master Robot: "Good. You are a smart human. Go ahead!"
 ```
 
 🎁 초등학생용 특별 보상
-- **거주 구역 마스터 뱃지**: Zone 2를 완벽하게 통과했다는 영광의 뱃지입니다.
-- **황금 열쇠**: 산업 구역으로 들어가는 거대한 문을 여는 열쇠입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "sticker",
+      "id": "거주_구역_master_badge_stage40",
+      "name": "거주 구역 마스터 뱃지",
+      "description": "Zone 2를 완벽하게 통과했다는 영광의 뱃지입니다."
+    },
+    {
+      "type": "item",
+      "id": "황금_열쇠",
+      "name": "황금 열쇠",
+      "description": "산업 구역으로 들어가는 거대한 문을 여는 열쇠입니다."
+    }
+  ]
+}
+```
 Buddy: "We did it! Zone 2 is finished. Now, let's go to the Industrial Area!"
 (우리가 해냈어! 거주 구역이 끝났어. 이제 산업 구역으로 가자!)

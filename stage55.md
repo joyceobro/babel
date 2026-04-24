@@ -60,8 +60,27 @@ Buddy: "You are a great navigator. **Right** and **left**... you know them all!"
 ```
 
 🎁 초등학생용 특별 보상
-- **방향 지시등**: 왼쪽과 오른쪽을 알려주는 반짝이는 지시등입니다.
-- **길잡이 배지**: "복잡한 길도 잘 찾는 친구" 배지입니다.
-
-Buddy: "We found the exit! Your direction skills are amazing."
-(출구를 찾았어! 네 방향 감각은 정말 대단해.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "방향_지시등",
+      "name": "방향 지시등",
+      "description": "왼쪽과 오른쪽을 알려주는 반짝이는 지시등입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "길잡이_badge_stage55",
+      "name": "길잡이 배지",
+      "description": "\"복잡한 길도 잘 찾는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"We found the exit! Your direction skills are amazing.\""
+    }
+  ]
+}
+```

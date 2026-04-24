@@ -59,8 +59,23 @@ Buddy: "Yes! **Because** I have you, I am happy!"
 ```
 
 🎁 초등학생용 특별 보상
-- **퍼즐 조각**: 논리 퍼즐을 풀 때 얻은 신비한 조각입니다.
-- **논리 박사 배지**: "원인과 결과를 잘 설명하는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "퍼즐_조각",
+      "name": "퍼즐 조각",
+      "description": "논리 퍼즐을 풀 때 얻은 신비한 조각입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "논리_doctor_badge_stage74",
+      "name": "논리 박사 배지",
+      "description": "\"원인과 결과를 잘 설명하는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "You are very good at explaining things. Let's find that battery!"
 (넌 설명을 정말 잘하는구나. 이제 배터리를 찾으러 가자!)

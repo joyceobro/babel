@@ -60,8 +60,27 @@ Buddy: "It worked! The **code** was correct. Let's go!"
 ```
 
 🎁 초등학생용 특별 보상
-- **암호 해독기**: 어려운 암호도 쉽게 풀어주는 작은 기계입니다.
-- **해커 방어 배지**: "보안을 철저히 지키는 똑똑한 친구" 배지입니다.
-
-Buddy: "You are like a genius! No door can stop us."
-(넌 마치 천재 같아! 어떤 문도 우릴 막을 수 없어.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "암호_해독기",
+      "name": "암호 해독기",
+      "description": "어려운 암호도 쉽게 풀어주는 작은 기계입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "해커_방어_badge_stage79",
+      "name": "해커 방어 배지",
+      "description": "\"보안을 철저히 지키는 똑똑한 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"You are like a genius! No door can stop us.\""
+    }
+  ]
+}
+```

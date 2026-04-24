@@ -60,8 +60,23 @@ Buddy: "Of course! Let's get ready for the **birthday party**!"
 ```
 
 🎁 초등학생용 특별 보상
-- **황금 초대장**: 파티에 입장할 때 필요한 반짝이는 카드입니다.
-- **인기쟁이 배지**: "친구들에게 인기 많은 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "황금_초대장",
+      "name": "황금 초대장",
+      "description": "파티에 입장할 때 필요한 반짝이는 카드입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "인기쟁이_badge_stage36",
+      "name": "인기쟁이 배지",
+      "description": "\"친구들에게 인기 많은 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "I'm so excited! Let's find a gift now."
 (정말 신난다! 이제 선물을 찾아보자.)

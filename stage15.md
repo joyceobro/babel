@@ -60,8 +60,23 @@ Buddy: "Quick! Remember the number **2151**. We can open the door now!"
 ```
 
 🎁 초등학생용 특별 보상
-- **숫자 암호표**: 1부터 100까지 숫자가 적힌 종이입니다.
-- **보안 요원 카드**: "비밀을 알아낸 친구" 카드입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "숫자_암호표",
+      "name": "숫자 암호표",
+      "description": "1부터 100까지 숫자가 적힌 종이입니다."
+    },
+    {
+      "type": "item",
+      "id": "보안_요원_카드",
+      "name": "보안 요원 카드",
+      "description": "\"비밀을 알아낸 친구\" 카드입니다."
+    }
+  ]
+}
+```
 Buddy: "You are a great listener! 2151 is the key. Let's type it in!"
 (넌 정말 잘 듣는구나! 2151이 핵심이야. 어서 입력하자!)

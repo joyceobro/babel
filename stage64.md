@@ -60,8 +60,27 @@ Buddy: "Let's focus on **today** first. **Today** is a special day!"
 ```
 
 🎁 초등학생용 특별 보상
-- **마법의 일기장**: 어제와 오늘의 일을 기록할 수 있는 일기장입니다.
-- **시간 관리자 배지**: "시간의 소중함을 아는 친구" 배지입니다.
-
-Buddy: "Yesterday is a memory, and today is a gift!"
-(어제는 추억이고, 오늘은 선물이야!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "마법의_일기장",
+      "name": "마법의 일기장",
+      "description": "어제와 오늘의 일을 기록할 수 있는 일기장입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "시간_관리자_badge_stage64",
+      "name": "시간 관리자 배지",
+      "description": "\"시간의 소중함을 아는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Yesterday is a memory, and today is a gift!\""
+    }
+  ]
+}
+```

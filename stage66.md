@@ -60,8 +60,27 @@ Buddy: "Yes, always **look** carefully in the lab."
 ```
 
 🎁 초등학생용 특별 보상
-- **연구원 안경**: 실험실에서 눈을 보호해주는 멋진 안경입니다.
-- **관찰왕 배지**: "세밀한 부분까지 잘 찾아내는 친구" 배지입니다.
-
-Buddy: "Observation is the first step of science! You are doing great."
-(관찰은 과학의 첫 단계야! 정말 잘하고 있어.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "연구원_안경",
+      "name": "연구원 안경",
+      "description": "실험실에서 눈을 보호해주는 멋진 안경입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "관찰왕_badge_stage66",
+      "name": "관찰왕 배지",
+      "description": "\"세밀한 부분까지 잘 찾아내는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Observation is the first step of science! You are doing great.\""
+    }
+  ]
+}
+```

@@ -63,8 +63,27 @@ You: "Okay. I will follow every **rule**."
 ```
 
 🎁 초등학생용 특별 보상
-- **실험실 고글**: 눈을 안전하게 보호해주는 반짝이는 고글입니다.
-- **모범생 배지**: "규칙을 가장 잘 지키는 친구" 배지입니다.
-
-Buddy: "Rules keep us safe. Now we can explore the lab safely!"
-(규칙은 우리를 안전하게 지켜줘. 이제 실험실을 안전하게 탐험하자!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "lab_고글",
+      "name": "실험실 고글",
+      "description": "눈을 안전하게 보호해주는 반짝이는 고글입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "모범생_badge_stage73",
+      "name": "모범생 배지",
+      "description": "\"규칙을 가장 잘 지키는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Rules keep us safe. Now we can explore the lab safely!\""
+    }
+  ]
+}
+```

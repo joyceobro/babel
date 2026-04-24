@@ -60,8 +60,23 @@ Buddy: "Yeah, it's not a **big** monster. It's just a cleaning robot!"
 ```
 
 🎁 초등학생용 특별 보상
-- **확대경**: 작은 물건을 크게 볼 수 있는 돋보기입니다.
-- **줄자**: 길이를 잴 수 있는 노란색 줄자입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "확대경",
+      "name": "확대경",
+      "description": "작은 물건을 크게 볼 수 있는 돋보기입니다."
+    },
+    {
+      "type": "item",
+      "id": "줄자",
+      "name": "줄자",
+      "description": "길이를 잴 수 있는 노란색 줄자입니다."
+    }
+  ]
+}
+```
 Buddy: "I was so scared, but you are very brave. Let's go past the small robot!"
 (정말 무서웠는데, 넌 참 용감하구나. 저 작은 로봇을 지나서 가자!)

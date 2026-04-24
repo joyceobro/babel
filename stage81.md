@@ -60,7 +60,17 @@ Buddy: "Yes, you are doing great. Keep going!"
 ```
 
 🎁 초등학생용 특별 보상
-- **고속 엘리베이터 티켓**: 최상층까지 빠르게 갈 수 있는 특별한 티켓입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "고속_엘리베이터_티켓",
+      "name": "고속 엘리베이터 티켓",
+      "description": "최상층까지 빠르게 갈 수 있는 특별한 티켓입니다."
+    }
+  ]
+}
+```
 Buddy: "The view is getting even better! Let's look outside."
 (전망이 점점 더 좋아지고 있어! 밖을 보자.)

@@ -60,8 +60,24 @@ You: "I agree. I will use my **intelligence** to help everyone."
 ```
 
 🎁 초등학생용 특별 보상
-- **박사 모자**: 지혜로운 사람만 쓸 수 있는 멋진 박사 모자입니다.
-- **실험실/도서관 마스터 배지**: Zone 4를 완벽하게 통과했다는 증표입니다.
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "doctor_hat",
+      "name": "박사 모자",
+      "description": "지혜로운 사람만 쓸 수 있는 멋진 박사 모자입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "lab_library_master_badge_stage80",
+      "name": "실험실/도서관 마스터 배지",
+      "description": "Zone 4를 완벽하게 통과했다는 증표입니다."
+    }
+  ]
+}
+```
 
 Buddy: "Now we are going to the Top Floors! The Master AI is there. Are you ready?"
 (이제 최상층으로 가자! 마스터 AI가 거기 있어. 준비됐니?)

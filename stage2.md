@@ -60,8 +60,23 @@ Buddy: "Don't worry. We can find some bread soon!"
 ```
 
 🎁 초등학생용 특별 보상
-- **작은 손전등**: 어두운 곳을 밝힐 수 있는 귀여운 손전등입니다.
-- **용기의 뱃지**: "무서움을 이겨내자!" 뱃지를 획득했습니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "small_flashlight",
+      "name": "작은 손전등",
+      "description": "어두운 곳을 밝힐 수 있는 귀여운 손전등입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "courage_badge_stage2",
+      "name": "용기의 뱃지",
+      "description": "\"무서움을 이겨내자!\" 뱃지를 획득했습니다."
+    }
+  ]
+}
+```
 Buddy: "You are doing great! Let's keep going. Shhh, I hear a robot moving!"
 (정말 잘하고 있어! 계속 가자. 쉿, 로봇이 움직이는 소리가 들려!)

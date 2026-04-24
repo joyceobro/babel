@@ -60,7 +60,21 @@ Buddy: "Stay still! If we move, the guard robots will see us."
 ```
 
 🎁 초등학생용 특별 보상
-- **투명 망토**: 로봇들의 눈을 피할 수 있는 신비한 망토입니다.
-
-Buddy: "Wait until the Master AI stops talking. Be very quiet."
-(마스터 AI가 말을 멈출 때까지 기다려. 아주 조용히 해야 해.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "투명_망토",
+      "name": "투명 망토",
+      "description": "로봇들의 눈을 피할 수 있는 신비한 망토입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Wait until the Master AI stops talking. Be very quiet.\""
+    }
+  ]
+}
+```

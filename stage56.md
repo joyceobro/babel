@@ -60,8 +60,23 @@ Buddy: "You are a smart explorer! Let's follow the **map**."
 ```
 
 🎁 초등학생용 특별 보상
-- **오래된 보물 지도**: 보물이 숨겨진 위치가 그려진 낡은 지도입니다.
-- **지리 박사 배지**: "방향과 지도를 잘 이해하는 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "오래된_보물_지도",
+      "name": "오래된 보물 지도",
+      "description": "보물이 숨겨진 위치가 그려진 낡은 지도입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "지리_doctor_badge_stage56",
+      "name": "지리 박사 배지",
+      "description": "\"방향과 지도를 잘 이해하는 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "The map says there is a train station ahead. Let's go!"
 (지도를 보니 앞에 기차역이 있대. 가보자!)

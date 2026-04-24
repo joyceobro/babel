@@ -60,8 +60,27 @@ You: "Okay. **Heavy** boxes go on the cart, and I will carry the **light** ones.
 ```
 
 🎁 초등학생용 특별 보상
-- **튼튼한 장갑**: 무거운 물건도 잘 들 수 있게 해주는 마법 장갑입니다.
-- **힘센 친구 배지**: "어려운 일도 척척 돕는 힘센 친구" 배지입니다.
-
-Buddy: "We finished moving all the boxes! You are stronger than you look."
-(모든 상자를 다 옮겼어! 넌 보기보다 힘이 세구나.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "튼튼한_장갑",
+      "name": "튼튼한 장갑",
+      "description": "무거운 물건도 잘 들 수 있게 해주는 마법 장갑입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "힘센_친구_badge_stage52",
+      "name": "힘센 친구 배지",
+      "description": "\"어려운 일도 척척 돕는 힘센 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"We finished moving all the boxes! You are stronger than you look.\""
+    }
+  ]
+}
+```

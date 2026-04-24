@@ -60,8 +60,27 @@ You: "Thank you! Now it fits perfectly."
 ```
 
 🎁 초등학생용 특별 보상
-- **맞춤형 모자**: 내 머리에 딱 맞는 멋진 모자입니다.
-- **협상가 배지**: "자신의 의견을 잘 말하는 친구" 배지입니다.
-
-Buddy: "Everything is perfect now. You did a great job asking!"
-(이제 모든 게 완벽해. 네가 아주 잘 물어봤어!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "맞춤형_hat",
+      "name": "맞춤형 모자",
+      "description": "내 머리에 딱 맞는 멋진 모자입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "협상가_badge_stage33",
+      "name": "협상가 배지",
+      "description": "\"자신의 의견을 잘 말하는 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Everything is perfect now. You did a great job asking!\""
+    }
+  ]
+}
+```

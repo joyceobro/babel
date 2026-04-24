@@ -60,8 +60,27 @@ Buddy: "Now **walk** quietly. The guards are near."
 ```
 
 🎁 초등학생용 특별 보상
-- **날쌘돌이 신발**: 더 빨리 달릴 수 있게 해주는 신발입니다.
-- **운동 선수 뱃지**: "몸놀림이 가벼운 친구" 뱃지입니다.
-
-Buddy: "You are very fast! We escaped the guards. Great job!"
-(정말 빠르구나! 경비들을 따돌렸어. 잘했어!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "날쌘돌이_신발",
+      "name": "날쌘돌이 신발",
+      "description": "더 빨리 달릴 수 있게 해주는 신발입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "운동_선수_badge_stage17",
+      "name": "운동 선수 뱃지",
+      "description": "\"몸놀림이 가벼운 친구\" 뱃지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"You are very fast! We escaped the guards. Great job!\""
+    }
+  ]
+}
+```

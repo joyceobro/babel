@@ -60,8 +60,27 @@ Buddy: "Perfect! Now **put in** the green fuel into the machine."
 ```
 
 🎁 초등학생용 특별 보상
-- **마법의 국자**: 무엇이든 잘 섞이게 해주는 반짝이는 국자입니다.
-- **꼬마 과학자 배지**: "실험을 성공적으로 마친 친구" 배지입니다.
-
-Buddy: "The fuel is ready! The machine is humming happily."
-(연료가 준비됐어! 기계가 기분 좋게 웅웅거리고 있어.)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "마법의_국자",
+      "name": "마법의 국자",
+      "description": "무엇이든 잘 섞이게 해주는 반짝이는 국자입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "꼬마_과학자_badge_stage53",
+      "name": "꼬마 과학자 배지",
+      "description": "\"실험을 성공적으로 마친 친구\" 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"The fuel is ready! The machine is humming happily.\""
+    }
+  ]
+}
+```

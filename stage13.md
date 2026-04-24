@@ -60,8 +60,27 @@ Cleaner Robot: "Thank you! You are so kind. **Help me** find my way back, too."
 ```
 
 🎁 초등학생용 특별 보상
-- **반짝이는 빗자루**: 청소를 도와주는 신기한 빗자루입니다.
-- **친절 대사 배지**: 남을 돕는 착한 친구에게 주는 배지입니다.
-
-Buddy: "Helping others makes me feel good. You are a true hero!"
-(남을 돕는 건 정말 기분 좋은 일이야. 넌 진정한 영웅이야!)
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "shiny_빗자루",
+      "name": "반짝이는 빗자루",
+      "description": "청소를 도와주는 신기한 빗자루입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "친절_대사_badge_stage13",
+      "name": "친절 대사 배지",
+      "description": "남을 돕는 착한 친구에게 주는 배지입니다."
+    },
+    {
+      "type": "item",
+      "id": "buddy",
+      "name": "Buddy",
+      "description": "\"Helping others makes me feel good. You are a true hero!\""
+    }
+  ]
+}
+```

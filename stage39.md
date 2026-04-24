@@ -60,8 +60,23 @@ Robot Friend: "Bye-bye! **See you**!"
 ```
 
 🎁 초등학생용 특별 보상
-- **추억의 사진**: 친구들과 함께 찍은 반짝이는 사진입니다.
-- **다정한 친구 배지**: "작별 인사를 잘하는 다정한 친구" 배지입니다.
-
+```json
+{
+  "rewards": [
+    {
+      "type": "item",
+      "id": "추억의_사진",
+      "name": "추억의 사진",
+      "description": "친구들과 함께 찍은 반짝이는 사진입니다."
+    },
+    {
+      "type": "sticker",
+      "id": "다정한_친구_badge_stage39",
+      "name": "다정한 친구 배지",
+      "description": "\"작별 인사를 잘하는 다정한 친구\" 배지입니다."
+    }
+  ]
+}
+```
 Buddy: "I will miss them. But our adventure continues! Let's go!"
 (친구들이 보고 싶을 거야. 하지만 우리의 모험은 계속돼! 가자!)
