@@ -257,8 +257,37 @@ screen quick_menu():
 ## 출력되게 합니다.
 init python:
     config.overlay_screens.append("quick_menu")
+    config.overlay_screens.append("status_screen")
 
 default quick_menu = True
+
+screen status_screen():
+    zorder 101
+    if not main_menu:
+        hbox:
+            xpos 20
+            ypos 20
+            spacing 15
+
+            # Shortcut Buttons
+            hbox:
+                spacing 10
+                yalign 0.5
+                textbutton "🎒 인벤토리" action ShowMenu("inventory"):
+                    style "status_button"
+                textbutton "📜 스티커북" action ShowMenu("sticker_book"):
+                    style "status_button"
+
+# status_screen에서 사용할 버튼 스타일 추가
+style status_button is button
+style status_button_text is button_text:
+    size 18
+    color "#ffffff"
+    hover_color "#ffb6c1"
+
+style status_button:
+    background Solid("#0000007f")
+    padding (10, 5)
 
 style quick_menu is hbox
 style quick_button is default
@@ -305,6 +334,10 @@ screen navigation():
             textbutton _("저장하기") action ShowMenu("save")
 
         textbutton _("불러오기") action ShowMenu("load")
+
+        textbutton _("인벤토리") action ShowMenu("inventory")
+
+        textbutton _("스티커북") action ShowMenu("sticker_book")
 
         textbutton _("환경설정") action ShowMenu("preferences")
 
@@ -1605,3 +1638,92 @@ style slider_vbox:
 style slider_slider:
     variant "small"
     xsize 900
+
+screen inventory():
+    tag menu
+    use game_menu(_("인벤토리"), scroll="viewport"):
+        style_prefix "inventory"
+        vbox:
+            spacing 20
+            if not inventory:
+                text _("가방이 비어 있습니다.")
+            else:
+                for item in inventory:
+                    frame:
+                        xfill True
+                        hbox:
+                            spacing 20
+                            # Item Icon
+                            if item.icon:
+                                add item.icon size (100, 100) yalign 0.5
+                            else:
+                                frame:
+                                    xsize 100 ysize 100
+                                    background "#444"
+                                    text "?" align (0.5, 0.5)
+
+                            vbox:
+                                yalign 0.5
+                                text item.name size 30 color "#ffb6c1"
+                                text item.description size 20
+                            
+                            null width 20
+                            
+                            if item.effect:
+                                textbutton _("사용하기"):
+                                    align (1.0, 0.5)
+                                    action [Function(use_item, item), Return()] # Return to close inventory and see Buddy's reaction
+                            else:
+                                text _("사용 불가"):
+                                    align (1.0, 0.5)
+                                    color "#888"
+
+screen sticker_book():
+    tag menu
+    use game_menu(_("스티커북"), scroll="viewport"):
+        style_prefix "sticker"
+        vpgrid:
+            cols 3
+            spacing 20
+            draggable True
+            mousewheel True
+            if not stickers:
+                text _("모은 스티커가 없습니다.")
+            else:
+                for s in stickers:
+                    frame:
+                        xsize 300
+                        ysize 250
+                        vbox:
+                            align (0.5, 0.5)
+                            spacing 10
+                            # Sticker Icon
+                            if s.icon:
+                                add s.icon size (150, 150) xalign 0.5
+                            else:
+                                frame:
+                                    xsize 150 ysize 150
+                                    background "#555"
+                                    text "Sticker" align (0.5, 0.5)
+                            
+                            text s.name size 25 xalign 0.5 color "#ffb6c1"
+                            text s.description size 15 xalign 0.5
+
+## Energy Bar screen
+screen energy_bar():
+    zorder 100
+    hbox:
+        xalign 0.05
+        yalign 0.05
+        spacing 10
+        
+        text "Energy:" size 30 color "#ffffff" outlines [(2, "#000000")]
+        
+        bar:
+            value AnimatedValue(energy, max_energy, 1.0)
+            xsize 300
+            ysize 30
+            left_bar Frame("gui/bar/left.png", gui.bar_borders, tile=gui.bar_tile)
+            right_bar Frame("gui/bar/right.png", gui.bar_borders, tile=gui.bar_tile)
+        
+        text "[energy]/[max_energy]" size 24 color "#ffffff" yalign 0.5

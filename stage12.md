@@ -19,6 +19,9 @@ Buddy: "Yes! It is **next to** the big tree. Let's go!"
 You: "Thank you, Buddy. Now I am happy."
 (고마워, 버디야. 이제 살 것 같아.)
 
+Buddy: "You're welcome! Wait, do I have that **Rusty Key Card**? I hope I didn't lose it!"
+(천만에! 잠깐, 나 그 **녹슨 카드키** 가지고 있나? 잃어버리지 않았으면 좋겠어!)
+
 [Stage 12 Quiz: 어디에 있나요?]
 장소를 물어볼 때 쓰는 핵심 표현을 배워봐요.
 

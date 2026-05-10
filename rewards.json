@@ -1,0 +1,1365 @@
+[
+  {
+    "type": "item",
+    "id": "buddy_candy",
+    "name": "버디의 사탕",
+    "description": "버디가 기운을 내라며 반짝이는 사탕 아이템을 줍니다.",
+    "effect": {
+      "energy": 1
+    },
+    "stage": 1,
+    "image_prompt": "candy, 버디의 사탕, 버디가 기운을 내라며 반짝이는 사탕 아이템을 줍니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "praise_sticker_stage1",
+    "name": "칭찬 스티커",
+    "description": "\"영어 천재의 탄생!\" 스티커가 다이어리에 붙습니다.",
+    "stage": 1,
+    "image_prompt": "sticker, 칭찬 스티커, \"영어 천재의 탄생!\" 스티커가 다이어리에 붙습니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "small_flashlight",
+    "name": "작은 손전등",
+    "description": "어두운 곳을 밝힐 수 있는 귀여운 손전등입니다.",
+    "stage": 2,
+    "image_prompt": "flashlight, 작은 손전등, 어두운 곳을 밝힐 수 있는 귀여운 손전등입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "courage_badge_stage2",
+    "name": "용기의 뱃지",
+    "description": "\"무서움을 이겨내자!\" 뱃지를 획득했습니다.",
+    "stage": 2,
+    "image_prompt": "badge, 용기의 뱃지, \"무서움을 이겨내자!\" 뱃지를 획득했습니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "정지_리모컨",
+    "name": "정지 리모컨",
+    "description": "로봇들을 잠시 멈추게 할 수 있는 신기한 리모컨입니다.",
+    "stage": 3,
+    "image_prompt": "remote control, 정지 리모컨, 로봇들을 잠시 멈추게 할 수 있는 신기한 리모컨입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "부드러운_신발",
+    "name": "부드러운 신발",
+    "description": "소리를 내지 않고 걸을 수 있는 푹신한 신발입니다.",
+    "stage": 3,
+    "image_prompt": "shoes, 부드러운 신발, 소리를 내지 않고 걸을 수 있는 푹신한 신발입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "마법의_열쇠고리",
+    "name": "마법의 열쇠고리",
+    "description": "문을 더 쉽게 열 수 있게 도와주는 행운의 열쇠고리입니다.",
+    "stage": 4,
+    "image_prompt": "keychain, 마법의 열쇠고리, 문을 더 쉽게 열 수 있게 도와주는 행운의 열쇠고리입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "문지기_sticker_stage4",
+    "name": "문지기 스티커",
+    "description": "\"문을 잘 여는 친구\" 스티커를 받았습니다.",
+    "stage": 4,
+    "image_prompt": "sticker, 문지기 스티커, \"문을 잘 여는 친구\" 스티커를 받았습니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "투명_망토_조각",
+    "name": "투명 망토 조각",
+    "description": "몸을 살짝 가려주는 신비한 천 조각입니다.",
+    "stage": 5,
+    "image_prompt": "cloak, 투명 망토 조각, 몸을 살짝 가려주는 신비한 천 조각입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "닌자_badge_stage5",
+    "name": "닌자 배지",
+    "description": "\"은신술의 달인\" 배지를 획득했습니다.",
+    "stage": 5,
+    "image_prompt": "badge, 닌자 배지, \"은신술의 달인\" 배지를 획득했습니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "만능_글러브",
+    "name": "만능 글러브",
+    "description": "무엇이든 잘 할 수 있게 도와주는 장갑입니다.",
+    "stage": 6,
+    "image_prompt": "gloves, 만능 글러브, 무엇이든 잘 할 수 있게 도와주는 장갑입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "자신감_물약",
+    "name": "자신감 물약",
+    "description": "마시면 목소리가 커지는 신비한 음료입니다.",
+    "stage": 6,
+    "image_prompt": "potion, 자신감 물약, 마시면 목소리가 커지는 신비한 음료입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "미소_badge_stage7",
+    "name": "미소 배지",
+    "description": "친구를 도와주면 반짝이는 귀여운 배지입니다.",
+    "stage": 7,
+    "image_prompt": "badge, 미소 배지, 친구를 도와주면 반짝이는 귀여운 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "분홍색_손수건",
+    "name": "분홍색 손수건",
+    "description": "눈물을 닦아줄 수 있는 부드러운 손수건입니다.",
+    "stage": 7,
+    "image_prompt": "분홍색 손수건, 분홍색 손수건, 눈물을 닦아줄 수 있는 부드러운 손수건입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "무지개_페인트",
+    "name": "무지개 페인트",
+    "description": "무엇이든 예쁜 색으로 칠할 수 있는 페인트 세트입니다.",
+    "stage": 8,
+    "image_prompt": "무지개 페인트, 무지개 페인트, 무엇이든 예쁜 색으로 칠할 수 있는 페인트 세트입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "에너지_배터리",
+    "name": "에너지 배터리",
+    "description": "버디를 충전해줄 수 있는 예비 배터리입니다.",
+    "stage": 8,
+    "image_prompt": "battery, 에너지 배터리, 버디를 충전해줄 수 있는 예비 배터리입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "확대경",
+    "name": "확대경",
+    "description": "작은 물건을 크게 볼 수 있는 돋보기입니다.",
+    "stage": 9,
+    "image_prompt": "확대경, 확대경, 작은 물건을 크게 볼 수 있는 돋보기입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "줄자",
+    "name": "줄자",
+    "description": "길이를 잴 수 있는 노란색 줄자입니다.",
+    "stage": 9,
+    "image_prompt": "줄자, 줄자, 길이를 잴 수 있는 노란색 줄자입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "녹슨_카드키",
+    "name": "녹슨 카드키",
+    "description": "나중에 어딘가에 쓸 수 있을 것 같은 오래된 카드키입니다.",
+    "stage": 10,
+    "image_prompt": "card, 녹슨 카드키, 나중에 어딘가에 쓸 수 있을 것 같은 오래된 카드키입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "나눔의_천사_badge_stage10",
+    "name": "나눔의 천사 배지",
+    "description": "음식을 나눠준 착한 마음씨를 칭찬하는 배지입니다.",
+    "stage": 10,
+    "image_prompt": "badge, 나눔의 천사 배지, 음식을 나눠준 착한 마음씨를 칭찬하는 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "맛있는_사과",
+    "name": "맛있는 사과",
+    "description": "에너지를 채워주는 빨간 사과입니다.",
+    "stage": 11,
+    "image_prompt": "apple, 맛있는 사과, 에너지를 채워주는 빨간 사과입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "미식가_badge_stage11",
+    "name": "미식가 배지",
+    "description": "\"맛을 아는 친구\" 배지를 얻었습니다.",
+    "stage": 11,
+    "image_prompt": "badge, 미식가 배지, \"맛을 아는 친구\" 배지를 얻었습니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "파란색_텀블러",
+    "name": "파란색 텀블러",
+    "description": "물을 담아 다닐 수 있는 시원한 색깔의 물통입니다.",
+    "stage": 12,
+    "image_prompt": "파란색 텀블러, 파란색 텀블러, 물을 담아 다닐 수 있는 시원한 색깔의 물통입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "explorer_hat",
+    "name": "탐험가 모자",
+    "description": "길을 잘 찾는 친구들을 위한 멋진 모자입니다.",
+    "stage": 12,
+    "image_prompt": "hat, 탐험가 모자, 길을 잘 찾는 친구들을 위한 멋진 모자입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "shiny_빗자루",
+    "name": "반짝이는 빗자루",
+    "description": "청소를 도와주는 신기한 빗자루입니다.",
+    "stage": 13,
+    "image_prompt": "broom, 반짝이는 빗자루, 청소를 도와주는 신기한 빗자루입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "친절_대사_badge_stage13",
+    "name": "친절 대사 배지",
+    "description": "남을 돕는 착한 친구에게 주는 배지입니다.",
+    "stage": 13,
+    "image_prompt": "badge, 친절 대사 배지, 남을 돕는 착한 친구에게 주는 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "황금_귀마개",
+    "name": "황금 귀마개",
+    "description": "작은 소리도 잘 들을 수 있게 해주는 귀마개입니다.",
+    "stage": 14,
+    "image_prompt": "황금 귀마개, 황금 귀마개, 작은 소리도 잘 들을 수 있게 해주는 귀마개입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "소리_탐정_돋보기",
+    "name": "소리 탐정 돋보기",
+    "description": "소리의 근원지를 찾아주는 신기한 돋보기입니다.",
+    "stage": 14,
+    "image_prompt": "magnifying glass, 소리 탐정 돋보기, 소리의 근원지를 찾아주는 신기한 돋보기입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "숫자_암호표",
+    "name": "숫자 암호표",
+    "description": "1부터 100까지 숫자가 적힌 종이입니다.",
+    "stage": 15,
+    "image_prompt": "숫자 암호표, 숫자 암호표, 1부터 100까지 숫자가 적힌 종이입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "보안_요원_카드",
+    "name": "보안 요원 카드",
+    "description": "\"비밀을 알아낸 친구\" 카드입니다.",
+    "stage": 15,
+    "image_prompt": "card, 보안 요원 카드, \"비밀을 알아낸 친구\" 카드입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "힘센_장갑",
+    "name": "힘센 장갑",
+    "description": "밀고 당기는 힘을 세게 해주는 장갑입니다.",
+    "stage": 16,
+    "image_prompt": "gloves, 힘센 장갑, 밀고 당기는 힘을 세게 해주는 장갑입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "기계_조종사_면허증",
+    "name": "기계 조종사 면허증",
+    "description": "\"기계를 잘 다루는 친구\" 면허증입니다.",
+    "stage": 16,
+    "image_prompt": "기계 조종사 면허증, 기계 조종사 면허증, \"기계를 잘 다루는 친구\" 면허증입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "날쌘돌이_신발",
+    "name": "날쌘돌이 신발",
+    "description": "더 빨리 달릴 수 있게 해주는 신발입니다.",
+    "stage": 17,
+    "image_prompt": "shoes, 날쌘돌이 신발, 더 빨리 달릴 수 있게 해주는 신발입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "운동_선수_badge_stage17",
+    "name": "운동 선수 뱃지",
+    "description": "\"몸놀림이 가벼운 친구\" 뱃지입니다.",
+    "stage": 17,
+    "image_prompt": "badge, 운동 선수 뱃지, \"몸놀림이 가벼운 친구\" 뱃지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "shiny_거울",
+    "name": "반짝이는 거울",
+    "description": "내 모습을 비춰주는 예쁜 손거울입니다.",
+    "stage": 18,
+    "image_prompt": "반짝이는 거울, 반짝이는 거울, 내 모습을 비춰주는 예쁜 손거울입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "멋쟁이_sticker_stage18",
+    "name": "멋쟁이 스티커",
+    "description": "\"자기 자신을 아끼는 친구\" 스티커입니다.",
+    "stage": 18,
+    "image_prompt": "sticker, 멋쟁이 스티커, \"자기 자신을 아끼는 친구\" 스티커입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "모래시계",
+    "name": "모래시계",
+    "description": "1분을 잴 수 있는 파란색 모래시계입니다.",
+    "stage": 19,
+    "image_prompt": "clock, 모래시계, 1분을 잴 수 있는 파란색 모래시계입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "인내심_badge_stage19",
+    "name": "인내심 뱃지",
+    "description": "\"기다릴 줄 아는 친구\" 뱃지입니다.",
+    "stage": 19,
+    "image_prompt": "badge, 인내심 뱃지, \"기다릴 줄 아는 친구\" 뱃지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "sticker",
+    "id": "행운의_숫자_76_badge_stage20",
+    "name": "행운의 숫자 76 배지",
+    "description": "경비 로봇이 준 특별한 배지입니다.",
+    "stage": 20,
+    "image_prompt": "badge, 행운의 숫자 76 배지, 경비 로봇이 준 특별한 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "로비_통과권",
+    "name": "로비 통과권",
+    "description": "로비를 무사히 탈출했다는 증서입니다.",
+    "stage": 20,
+    "image_prompt": "로비 통과권, 로비 통과권, 로비를 무사히 탈출했다는 증서입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "마을_지도",
+    "name": "마을 지도",
+    "description": "주거 지구의 지도가 그려진 종이입니다.",
+    "stage": 21,
+    "image_prompt": "map, 마을 지도, 주거 지구의 지도가 그려진 종이입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "명예_시민증",
+    "name": "명예 시민증",
+    "description": "\"마을에 온 것을 환영받은 친구\" 증서입니다.",
+    "stage": 21,
+    "image_prompt": "명예 시민증, 명예 시민증, \"마을에 온 것을 환영받은 친구\" 증서입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "예쁜_장미_꽃_한_송이",
+    "name": "예쁜 장미 꽃 한 송이",
+    "description": "로즈가 준 향기로운 꽃입니다.",
+    "stage": 22,
+    "image_prompt": "flower, 예쁜 장미 꽃 한 송이, 로즈가 준 향기로운 꽃입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "예절_왕_badge_stage22",
+    "name": "예절 왕 배지",
+    "description": "\"인사를 잘하는 멋진 친구\" 배지입니다.",
+    "stage": 22,
+    "image_prompt": "badge, 예절 왕 배지, \"인사를 잘하는 멋진 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "집_열쇠",
+    "name": "집 열쇠",
+    "description": "버디의 집을 열 수 있는 귀여운 열쇠입니다.",
+    "stage": 23,
+    "image_prompt": "key, 집 열쇠, 버디의 집을 열 수 있는 귀여운 열쇠입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "초대장",
+    "name": "초대장",
+    "description": "\"우리 집에 놀러 와!\"라고 적힌 카드입니다.",
+    "stage": 23,
+    "image_prompt": "invitation, 초대장, \"우리 집에 놀러 와!\"라고 적힌 카드입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "로봇_뼈다귀",
+    "name": "로봇 뼈다귀",
+    "description": "강아지 로봇이 좋아하는 간식입니다.",
+    "stage": 24,
+    "image_prompt": "robot, 로봇 뼈다귀, 강아지 로봇이 좋아하는 간식입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "동물_친구_badge_stage24",
+    "name": "동물 친구 배지",
+    "description": "\"동물을 사랑하는 친구\" 배지입니다.",
+    "stage": 24,
+    "image_prompt": "badge, 동물 친구 배지, \"동물을 사랑하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "shiny_축구공",
+    "name": "반짝이는 축구공",
+    "description": "발로 차면 소리가 나는 멋진 축구공입니다.",
+    "stage": 25,
+    "image_prompt": "soccer ball, 반짝이는 축구공, 발로 차면 소리가 나는 멋진 축구공입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "운동장_스타_badge_stage25",
+    "name": "운동장 스타 배지",
+    "description": "\"운동을 좋아하는 활기찬 친구\" 배지입니다.",
+    "stage": 25,
+    "image_prompt": "badge, 운동장 스타 배지, \"운동을 좋아하는 활기찬 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "shiny_시계",
+    "name": "반짝이는 시계",
+    "description": "시간을 알려주는 멋진 로봇 시계입니다.",
+    "stage": 26,
+    "image_prompt": "clock, 반짝이는 시계, 시간을 알려주는 멋진 로봇 시계입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "물음표_badge_stage26",
+    "name": "물음표 배지",
+    "description": "\"호기심이 많은 똑똑한 친구\" 배지입니다.",
+    "stage": 26,
+    "image_prompt": "badge, 물음표 배지, \"호기심이 많은 똑똑한 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "초코_쿠키",
+    "name": "초코 쿠키",
+    "description": "달콤한 냄새가 나는 초코 쿠키 아이템입니다.",
+    "stage": 27,
+    "image_prompt": "cookie, 초코 쿠키, 달콤한 냄새가 나는 초코 쿠키 아이템입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "꼬마_파티쉐_badge_stage27",
+    "name": "꼬마 파티쉐 배지",
+    "description": "\"빵을 좋아하는 친구\" 배지입니다.",
+    "stage": 27,
+    "image_prompt": "badge, 꼬마 파티쉐 배지, \"빵을 좋아하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "미니_로봇_피규어",
+    "name": "미니 로봇 피규어",
+    "description": "버디를 닮은 아주 작은 로봇 인형입니다.",
+    "stage": 28,
+    "image_prompt": "robot, 미니 로봇 피규어, 버디를 닮은 아주 작은 로봇 인형입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "장난감_수집가_badge_stage28",
+    "name": "장난감 수집가 배지",
+    "description": "\"장난감을 좋아하는 친구\" 배지입니다.",
+    "stage": 28,
+    "image_prompt": "badge, 장난감 수집가 배지, \"장난감을 좋아하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "멋쟁이_explorer_hat",
+    "name": "멋쟁이 탐험가 모자",
+    "description": "해를 가려주는 멋진 노란색 모자입니다.",
+    "stage": 29,
+    "image_prompt": "hat, 멋쟁이 탐험가 모자, 해를 가려주는 멋진 노란색 모자입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "베스트_드레서_sticker_stage29",
+    "name": "베스트 드레서 스티커",
+    "description": "\"옷을 잘 입는 친구\" 스티커입니다.",
+    "stage": 29,
+    "image_prompt": "sticker, 베스트 드레서 스티커, \"옷을 잘 입는 친구\" 스티커입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "쇼핑_카트",
+    "name": "쇼핑 카트",
+    "description": "물건을 가득 담을 수 있는 작은 쇼핑 카트입니다.",
+    "stage": 30,
+    "image_prompt": "shopping cart, 쇼핑 카트, 물건을 가득 담을 수 있는 작은 쇼핑 카트입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "알뜰_쇼핑_badge_stage30",
+    "name": "알뜰 쇼핑 배지",
+    "description": "\"필요한 것을 잘 고르는 친구\" 배지입니다.",
+    "stage": 30,
+    "image_prompt": "badge, 알뜰 쇼핑 배지, \"필요한 것을 잘 고르는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "숫자_주사위",
+    "name": "숫자 주사위",
+    "description": "1부터 6까지 숫자가 적힌 예쁜 주사위입니다.",
+    "stage": 31,
+    "image_prompt": "dice, 숫자 주사위, 1부터 6까지 숫자가 적힌 예쁜 주사위입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "수학_천재_badge_stage31",
+    "name": "수학 천재 배지",
+    "description": "\"숫자를 잘 세는 똑똑한 친구\" 배지입니다.",
+    "stage": 31,
+    "image_prompt": "badge, 수학 천재 배지, \"숫자를 잘 세는 똑똑한 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "shiny_동전",
+    "name": "반짝이는 동전",
+    "description": "마트에서 받은 행운의 동전 아이템입니다.",
+    "stage": 32,
+    "image_prompt": "coin, 반짝이는 동전, 마트에서 받은 행운의 동전 아이템입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "경제_doctor_badge_stage32",
+    "name": "경제 박사 배지",
+    "description": "\"가격을 잘 물어보는 똑똑한 친구\" 배지입니다.",
+    "stage": 32,
+    "image_prompt": "badge, 경제 박사 배지, \"가격을 잘 물어보는 똑똑한 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "맞춤형_hat",
+    "name": "맞춤형 모자",
+    "description": "내 머리에 딱 맞는 멋진 모자입니다.",
+    "stage": 33,
+    "image_prompt": "hat, 맞춤형 모자, 내 머리에 딱 맞는 멋진 모자입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "협상가_badge_stage33",
+    "name": "협상가 배지",
+    "description": "\"자신의 의견을 잘 말하는 친구\" 배지입니다.",
+    "stage": 33,
+    "image_prompt": "badge, 협상가 배지, \"자신의 의견을 잘 말하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "구급상자",
+    "name": "구급상자",
+    "description": "로봇들을 수리할 때 쓰는 도구들이 들어있습니다.",
+    "stage": 34,
+    "image_prompt": "구급상자, 구급상자, 로봇들을 수리할 때 쓰는 도구들이 들어있습니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "착한_사마리아인_badge_stage34",
+    "name": "착한 사마리아인 배지",
+    "description": "\"아픈 친구를 먼저 챙기는 친구\" 배지입니다.",
+    "stage": 34,
+    "image_prompt": "badge, 착한 사마리아인 배지, \"아픈 친구를 먼저 챙기는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "나침반",
+    "name": "나침반",
+    "description": "길을 잃지 않게 도와주는 반짝이는 나침반입니다.",
+    "stage": 35,
+    "image_prompt": "나침반, 나침반, 길을 잃지 않게 도와주는 반짝이는 나침반입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "인간_네비게이션_badge_stage35",
+    "name": "인간 네비게이션 배지",
+    "description": "\"길 안내를 잘하는 친구\" 배지입니다.",
+    "stage": 35,
+    "image_prompt": "badge, 인간 네비게이션 배지, \"길 안내를 잘하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "황금_초대장",
+    "name": "황금 초대장",
+    "description": "파티에 입장할 때 필요한 반짝이는 카드입니다.",
+    "stage": 36,
+    "image_prompt": "invitation, 황금 초대장, 파티에 입장할 때 필요한 반짝이는 카드입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "인기쟁이_badge_stage36",
+    "name": "인기쟁이 배지",
+    "description": "\"친구들에게 인기 많은 친구\" 배지입니다.",
+    "stage": 36,
+    "image_prompt": "badge, 인기쟁이 배지, \"친구들에게 인기 많은 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "예쁘게_포장된_상자",
+    "name": "예쁘게 포장된 상자",
+    "description": "무엇이 들어있을지 궁금한 선물 상자입니다.",
+    "stage": 37,
+    "image_prompt": "예쁘게 포장된 상자, 예쁘게 포장된 상자, 무엇이 들어있을지 궁금한 선물 상자입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "kind_마음_badge_stage37",
+    "name": "친절한 마음 배지",
+    "description": "\"베풀 줄 아는 따뜻한 친구\" 배지입니다.",
+    "stage": 37,
+    "image_prompt": "badge, 친절한 마음 배지, \"베풀 줄 아는 따뜻한 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "hat",
+    "name": "고깔모자",
+    "description": "파티 분위기를 내주는 알록달록한 고깔모자입니다.",
+    "stage": 38,
+    "image_prompt": "hat, 고깔모자, 파티 분위기를 내주는 알록달록한 고깔모자입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "파티_플래너_badge_stage38",
+    "name": "파티 플래너 배지",
+    "description": "\"축하를 진심으로 해주는 친구\" 배지입니다.",
+    "stage": 38,
+    "image_prompt": "badge, 파티 플래너 배지, \"축하를 진심으로 해주는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "추억의_사진",
+    "name": "추억의 사진",
+    "description": "친구들과 함께 찍은 반짝이는 사진입니다.",
+    "stage": 39,
+    "image_prompt": "추억의 사진, 추억의 사진, 친구들과 함께 찍은 반짝이는 사진입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "다정한_친구_badge_stage39",
+    "name": "다정한 친구 배지",
+    "description": "\"작별 인사를 잘하는 다정한 친구\" 배지입니다.",
+    "stage": 39,
+    "image_prompt": "badge, 다정한 친구 배지, \"작별 인사를 잘하는 다정한 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "sticker",
+    "id": "거주_구역_master_badge_stage40",
+    "name": "거주 구역 마스터 뱃지",
+    "description": "Zone 2를 완벽하게 통과했다는 영광의 뱃지입니다.",
+    "stage": 40,
+    "image_prompt": "badge, 거주 구역 마스터 뱃지, Zone 2를 완벽하게 통과했다는 영광의 뱃지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "황금_열쇠",
+    "name": "황금 열쇠",
+    "description": "산업 구역으로 들어가는 거대한 문을 여는 열쇠입니다.",
+    "stage": 40,
+    "image_prompt": "key, 황금 열쇠, 산업 구역으로 들어가는 거대한 문을 여는 열쇠입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "안전_조끼",
+    "name": "안전 조끼",
+    "description": "멀리서도 잘 보이는 반짝이는 노란색 조끼입니다.",
+    "stage": 41,
+    "image_prompt": "안전 조끼, 안전 조끼, 멀리서도 잘 보이는 반짝이는 노란색 조끼입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "안전_요원_badge_stage41",
+    "name": "안전 요원 배지",
+    "description": "\"위험을 잘 감지하는 똑똑한 친구\" 배지입니다.",
+    "stage": 41,
+    "image_prompt": "badge, 안전 요원 배지, \"위험을 잘 감지하는 똑똑한 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "마법의_집게",
+    "name": "마법의 집게",
+    "description": "높은 곳에 있는 물건도 쉽게 집을 수 있는 집게입니다.",
+    "stage": 42,
+    "image_prompt": "마법의 집게, 마법의 집게, 높은 곳에 있는 물건도 쉽게 집을 수 있는 집게입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "정리_정돈_badge_stage42",
+    "name": "정리 정돈 배지",
+    "description": "\"물건의 위치를 잘 기억하는 친구\" 배지입니다.",
+    "stage": 42,
+    "image_prompt": "badge, 정리 정돈 배지, \"물건의 위치를 잘 기억하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "꼬마_수리공_조끼",
+    "name": "꼬마 수리공 조끼",
+    "description": "주머니가 많은 멋진 수리공 조끼입니다.",
+    "stage": 43,
+    "image_prompt": "ball, 꼬마 수리공 조끼, 주머니가 많은 멋진 수리공 조끼입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "도구_doctor_badge_stage43",
+    "name": "도구 박사 배지",
+    "description": "\"도구의 이름을 척척 맞히는 친구\" 배지입니다.",
+    "stage": 43,
+    "image_prompt": "badge, 도구 박사 배지, \"도구의 이름을 척척 맞히는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "만능_스위치",
+    "name": "만능 스위치",
+    "description": "무엇이든 켜고 끌 수 있는 신기한 스위치입니다.",
+    "stage": 44,
+    "image_prompt": "만능 스위치, 만능 스위치, 무엇이든 켜고 끌 수 있는 신기한 스위치입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "에너지_절약_badge_stage44",
+    "name": "에너지 절약 배지",
+    "description": "\"전기를 아껴 쓰는 친구\" 배지입니다.",
+    "stage": 44,
+    "image_prompt": "badge, 에너지 절약 배지, \"전기를 아껴 쓰는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "로봇_손목시계",
+    "name": "로봇 손목시계",
+    "description": "정각마다 소리가 나는 귀여운 손목시계입니다.",
+    "stage": 45,
+    "image_prompt": "clock, 로봇 손목시계, 정각마다 소리가 나는 귀여운 손목시계입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "시간_엄수_badge_stage45",
+    "name": "- **시간 엄수 배지",
+    "description": "\"약속 시간을 잘 지키는 친구\" 배지입니다.**",
+    "stage": 45,
+    "image_prompt": "badge, - **시간 엄수 배지, \"약속 시간을 잘 지키는 친구\" 배지입니다.**, Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "비눗방울_총",
+    "name": "비눗방울 총",
+    "description": "청소할 때 쓰면 즐거운 비눗방울 총입니다.",
+    "stage": 46,
+    "image_prompt": "비눗방울 총, 비눗방울 총, 청소할 때 쓰면 즐거운 비눗방울 총입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "성실이_badge_stage46",
+    "name": "성실이 배지",
+    "description": "\"자기 일을 열심히 돕는 친구\" 배지입니다.",
+    "stage": 46,
+    "image_prompt": "badge, 성실이 배지, \"자기 일을 열심히 돕는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "shiny_걸레",
+    "name": "반짝이는 걸레",
+    "description": "먼지를 한 번에 닦아주는 신기한 걸레입니다.",
+    "stage": 47,
+    "image_prompt": "반짝이는 걸레, 반짝이는 걸레, 먼지를 한 번에 닦아주는 신기한 걸레입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "깔끔이_sticker_stage47",
+    "name": "깔끔이 스티커",
+    "description": "\"주변을 깨끗하게 정리하는 친구\" 스티커입니다.",
+    "stage": 47,
+    "image_prompt": "sticker, 깔끔이 스티커, \"주변을 깨끗하게 정리하는 친구\" 스티커입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "조절_가능한_전등",
+    "name": "조절 가능한 전등",
+    "description": "밝기를 마음대로 바꿀 수 있는 예쁜 전등입니다.",
+    "stage": 48,
+    "image_prompt": "조절 가능한 전등, 조절 가능한 전등, 밝기를 마음대로 바꿀 수 있는 예쁜 전등입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "빛의_수호자_badge_stage48",
+    "name": "빛의 수호자 배지",
+    "description": "\"어둠 속에서 길을 찾는 친구\" 배지입니다.",
+    "stage": 48,
+    "image_prompt": "badge, 빛의 수호자 배지, \"어둠 속에서 길을 찾는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "미니_선풍기",
+    "name": "미니 선풍기",
+    "description": "더울 때 시원한 바람을 만들어주는 선풍기입니다.",
+    "stage": 49,
+    "image_prompt": "미니 선풍기, 미니 선풍기, 더울 때 시원한 바람을 만들어주는 선풍기입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "온도_조절사_badge_stage49",
+    "name": "온도 조절사 배지",
+    "description": "\"온도 변화에 잘 적응하는 친구\" 배지입니다.",
+    "stage": 49,
+    "image_prompt": "badge, 온도 조절사 배지, \"온도 변화에 잘 적응하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "kind_hammer",
+    "name": "친절한 망치",
+    "description": "무엇이든 잘 고칠 수 있는 튼튼한 망치입니다.",
+    "stage": 50,
+    "image_prompt": "hammer, 친절한 망치, 무엇이든 잘 고칠 수 있는 튼튼한 망치입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "신용_보장_badge_stage50",
+    "name": "신용 보장 배지",
+    "description": "\"물건을 잘 돌려주는 믿음직한 친구\" 배지입니다.",
+    "stage": 50,
+    "image_prompt": "badge, 신용 보장 배지, \"물건을 잘 돌려주는 믿음직한 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "순서_마법봉",
+    "name": "순서 마법봉",
+    "description": "순서를 헷갈리지 않게 도와주는 마법봉입니다.",
+    "stage": 51,
+    "image_prompt": "순서 마법봉, 순서 마법봉, 순서를 헷갈리지 않게 도와주는 마법봉입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "기억력_왕_badge_stage51",
+    "name": "기억력 왕 배지",
+    "description": "\"복잡한 순서도 척척 기억하는 친구\" 배지입니다.",
+    "stage": 51,
+    "image_prompt": "badge, 기억력 왕 배지, \"복잡한 순서도 척척 기억하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "튼튼한_장갑",
+    "name": "튼튼한 장갑",
+    "description": "무거운 물건도 잘 들 수 있게 해주는 마법 장갑입니다.",
+    "stage": 52,
+    "image_prompt": "gloves, 튼튼한 장갑, 무거운 물건도 잘 들 수 있게 해주는 마법 장갑입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "힘센_친구_badge_stage52",
+    "name": "힘센 친구 배지",
+    "description": "\"어려운 일도 척척 돕는 힘센 친구\" 배지입니다.",
+    "stage": 52,
+    "image_prompt": "badge, 힘센 친구 배지, \"어려운 일도 척척 돕는 힘센 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "마법의_국자",
+    "name": "마법의 국자",
+    "description": "무엇이든 잘 섞이게 해주는 반짝이는 국자입니다.",
+    "stage": 53,
+    "image_prompt": "마법의 국자, 마법의 국자, 무엇이든 잘 섞이게 해주는 반짝이는 국자입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "꼬마_과학자_badge_stage53",
+    "name": "꼬마 과학자 배지",
+    "description": "\"실험을 성공적으로 마친 친구\" 배지입니다.",
+    "stage": 53,
+    "image_prompt": "badge, 꼬마 과학자 배지, \"실험을 성공적으로 마친 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "마법의_이어폰",
+    "name": "마법의 이어폰",
+    "description": "시끄러운 소리를 막아주는 멋진 이어폰입니다.",
+    "stage": 54,
+    "image_prompt": "마법의 이어폰, 마법의 이어폰, 시끄러운 소리를 막아주는 멋진 이어폰입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "예의_바른_친구_badge_stage54",
+    "name": "예의 바른 친구 배지",
+    "description": "\"목소리 크기를 잘 조절하는 친구\" 배지입니다.",
+    "stage": 54,
+    "image_prompt": "badge, 예의 바른 친구 배지, \"목소리 크기를 잘 조절하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "방향_지시등",
+    "name": "방향 지시등",
+    "description": "왼쪽과 오른쪽을 알려주는 반짝이는 지시등입니다.",
+    "stage": 55,
+    "image_prompt": "방향 지시등, 방향 지시등, 왼쪽과 오른쪽을 알려주는 반짝이는 지시등입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "길잡이_badge_stage55",
+    "name": "길잡이 배지",
+    "description": "\"복잡한 길도 잘 찾는 친구\" 배지입니다.",
+    "stage": 55,
+    "image_prompt": "badge, 길잡이 배지, \"복잡한 길도 잘 찾는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "오래된_보물_지도",
+    "name": "오래된 보물 지도",
+    "description": "보물이 숨겨진 위치가 그려진 낡은 지도입니다.",
+    "stage": 56,
+    "image_prompt": "map, 오래된 보물 지도, 보물이 숨겨진 위치가 그려진 낡은 지도입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "지리_doctor_badge_stage56",
+    "name": "지리 박사 배지",
+    "description": "\"방향과 지도를 잘 이해하는 친구\" 배지입니다.",
+    "stage": 56,
+    "image_prompt": "badge, 지리 박사 배지, \"방향과 지도를 잘 이해하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "기차_모형",
+    "name": "기차 모형",
+    "description": "주머니에 쏙 들어가는 귀여운 기차 장난감입니다.",
+    "stage": 57,
+    "image_prompt": "train, 기차 모형, 주머니에 쏙 들어가는 귀여운 기차 장난감입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "베스트_승객_badge_stage57",
+    "name": "베스트 승객 배지",
+    "description": "\"대중교통을 잘 이용하는 친구\" 배지입니다.",
+    "stage": 57,
+    "image_prompt": "badge, 베스트 승객 배지, \"대중교통을 잘 이용하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "shiny_기차표",
+    "name": "반짝이는 기차표",
+    "description": "어디든 갈 수 있을 것 같은 황금색 기차표입니다.",
+    "stage": 58,
+    "image_prompt": "train, 반짝이는 기차표, 어디든 갈 수 있을 것 같은 황금색 기차표입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "예의_바른_손님_badge_stage58",
+    "name": "예의 바른 손님 배지",
+    "description": "\"부탁을 잘하는 예의 바른 친구\" 배지입니다.",
+    "stage": 58,
+    "image_prompt": "badge, 예의 바른 손님 배지, \"부탁을 잘하는 예의 바른 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "튼튼한_헬멧",
+    "name": "튼튼한 헬멧",
+    "description": "머리를 안전하게 지켜주는 멋진 헬멧입니다.",
+    "stage": 59,
+    "image_prompt": "helmet, 튼튼한 헬멧, 머리를 안전하게 지켜주는 멋진 헬멧입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "안전_제일_badge_stage59",
+    "name": "안전 제일 배지",
+    "description": "\"안전 규칙을 잘 지키는 친구\" 배지입니다.",
+    "stage": 59,
+    "image_prompt": "badge, 안전 제일 배지, \"안전 규칙을 잘 지키는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "산업_구역_master_medal",
+    "name": "산업 구역 마스터 메달",
+    "description": "Zone 3를 훌륭하게 통과한 친구에게 주는 메달입니다.",
+    "stage": 60,
+    "image_prompt": "산업 구역 마스터 메달, 산업 구역 마스터 메달, Zone 3를 훌륭하게 통과한 친구에게 주는 메달입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "연구원_가운",
+    "name": "연구원 가운",
+    "description": "실험실 구역에서 입을 수 있는 하얀색 가운입니다.",
+    "stage": 60,
+    "image_prompt": "연구원 가운, 연구원 가운, 실험실 구역에서 입을 수 있는 하얀색 가운입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "library_이용권",
+    "name": "도서관 이용권",
+    "description": "도서관의 모든 책을 빌릴 수 있는 카드입니다.",
+    "stage": 61,
+    "image_prompt": "도서관 이용권, 도서관 이용권, 도서관의 모든 책을 빌릴 수 있는 카드입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "예의_바른_독서가_badge_stage61",
+    "name": "예의 바른 독서가 배지",
+    "description": "\"공공장소 규칙을 잘 지키는 친구\" 배지입니다.",
+    "stage": 61,
+    "image_prompt": "badge, 예의 바른 독서가 배지, \"공공장소 규칙을 잘 지키는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "shiny_책갈피",
+    "name": "반짝이는 책갈피",
+    "description": "읽던 곳을 표시해주는 예쁜 책갈피입니다.",
+    "stage": 62,
+    "image_prompt": "book, 반짝이는 책갈피, 읽던 곳을 표시해주는 예쁜 책갈피입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "독서왕_badge_stage62",
+    "name": "독서왕 배지",
+    "description": "\"책 읽기를 좋아하는 친구\" 배지입니다.",
+    "stage": 62,
+    "image_prompt": "badge, 독서왕 배지, \"책 읽기를 좋아하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "이야기_주머니",
+    "name": "이야기 주머니",
+    "description": "재미있는 이야기가 가득 담긴 주머니입니다.",
+    "stage": 63,
+    "image_prompt": "이야기 주머니, 이야기 주머니, 재미있는 이야기가 가득 담긴 주머니입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "역사_explorer_badge_stage63",
+    "name": "역사 탐험가 배지",
+    "description": "\"과거의 이야기를 소중히 듣는 친구\" 배지입니다.",
+    "stage": 63,
+    "image_prompt": "badge, 역사 탐험가 배지, \"과거의 이야기를 소중히 듣는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "마법의_일기장",
+    "name": "마법의 일기장",
+    "description": "어제와 오늘의 일을 기록할 수 있는 일기장입니다.",
+    "stage": 64,
+    "image_prompt": "마법의 일기장, 마법의 일기장, 어제와 오늘의 일을 기록할 수 있는 일기장입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "시간_관리자_badge_stage64",
+    "name": "시간 관리자 배지",
+    "description": "\"시간의 소중함을 아는 친구\" 배지입니다.",
+    "stage": 64,
+    "image_prompt": "badge, 시간 관리자 배지, \"시간의 소중함을 아는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "탐정_돋보기",
+    "name": "탐정 돋보기",
+    "description": "숨겨진 단어를 더 잘 볼 수 있게 해주는 돋보기입니다.",
+    "stage": 65,
+    "image_prompt": "magnifying glass, 탐정 돋보기, 숨겨진 단어를 더 잘 볼 수 있게 해주는 돋보기입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "명탐정_badge_stage65",
+    "name": "명탐정 배지",
+    "description": "\"어려운 문제도 잘 해결하는 친구\" 배지입니다.",
+    "stage": 65,
+    "image_prompt": "badge, 명탐정 배지, \"어려운 문제도 잘 해결하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "연구원_안경",
+    "name": "연구원 안경",
+    "description": "실험실에서 눈을 보호해주는 멋진 안경입니다.",
+    "stage": 66,
+    "image_prompt": "glasses, 연구원 안경, 실험실에서 눈을 보호해주는 멋진 안경입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "관찰왕_badge_stage66",
+    "name": "관찰왕 배지",
+    "description": "\"세밀한 부분까지 잘 찾아내는 친구\" 배지입니다.",
+    "stage": 66,
+    "image_prompt": "badge, 관찰왕 배지, \"세밀한 부분까지 잘 찾아내는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "small_화분",
+    "name": "작은 화분",
+    "description": "집에서 키울 수 있는 귀여운 식물 화분입니다.",
+    "stage": 67,
+    "image_prompt": "작은 화분, 작은 화분, 집에서 키울 수 있는 귀여운 식물 화분입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "초록_천사_badge_stage67",
+    "name": "초록 천사 배지",
+    "description": "\"자연을 아끼고 사랑하는 친구\" 배지입니다.",
+    "stage": 67,
+    "image_prompt": "badge, 초록 천사 배지, \"자연을 아끼고 사랑하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "날씨_달력",
+    "name": "날씨 달력",
+    "description": "매일매일 날씨를 스티커로 표시할 수 있는 달력입니다.",
+    "stage": 68,
+    "image_prompt": "calendar, 날씨 달력, 매일매일 날씨를 스티커로 표시할 수 있는 달력입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "기상_캐스터_badge_stage68",
+    "name": "기상 캐스터 배지",
+    "description": "\"날씨를 잘 관찰하고 기록하는 친구\" 배지입니다.",
+    "stage": 68,
+    "image_prompt": "badge, 기상 캐스터 배지, \"날씨를 잘 관찰하고 기록하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "초고속_부스터",
+    "name": "초고속 부스터",
+    "description": "무엇이든 빠르게 만들어주는 마법의 장치입니다.",
+    "stage": 69,
+    "image_prompt": "초고속 부스터, 초고속 부스터, 무엇이든 빠르게 만들어주는 마법의 장치입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "거북이와_토끼_badge_stage69",
+    "name": "거북이와 토끼 배지",
+    "description": "\"속도보다 중요한 것을 아는 친구\" 배지입니다.",
+    "stage": 69,
+    "image_prompt": "badge, 거북이와 토끼 배지, \"속도보다 중요한 것을 아는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "기억의_구슬",
+    "name": "기억의 구슬",
+    "description": "소중한 추억을 담아 보관할 수 있는 구슬입니다.",
+    "stage": 70,
+    "image_prompt": "기억의 구슬, 기억의 구슬, 소중한 추억을 담아 보관할 수 있는 구슬입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "암기왕_badge_stage70",
+    "name": "암기왕 배지",
+    "description": "\"중요한 정보를 잘 기억하는 친구\" 배지입니다.",
+    "stage": 70,
+    "image_prompt": "badge, 암기왕 배지, \"중요한 정보를 잘 기억하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "골든벨",
+    "name": "골든벨",
+    "description": "퀴즈를 맞히면 울리는 멋진 황금 종입니다.",
+    "stage": 71,
+    "image_prompt": "골든벨, 골든벨, 퀴즈를 맞히면 울리는 멋진 황금 종입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "퀴즈_왕_badge_stage71",
+    "name": "퀴즈 왕 배지",
+    "description": "\"어떤 질문에도 척척 답하는 친구\" 배지입니다.",
+    "stage": 71,
+    "image_prompt": "badge, 퀴즈 왕 배지, \"어떤 질문에도 척척 답하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "true_false_flag",
+    "name": "참/거짓 깃발",
+    "description": "정답을 맞힐 때 흔드는 예쁜 깃발 세트입니다.",
+    "stage": 72,
+    "image_prompt": "참/거짓 깃발, 참/거짓 깃발, 정답을 맞힐 때 흔드는 예쁜 깃발 세트입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "honest_explorer_badge_stage72",
+    "name": "정직한 탐험가 배지",
+    "description": "\"진실을 잘 구별해내는 친구\" 배지입니다.",
+    "stage": 72,
+    "image_prompt": "badge, 정직한 탐험가 배지, \"진실을 잘 구별해내는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "lab_고글",
+    "name": "실험실 고글",
+    "description": "눈을 안전하게 보호해주는 반짝이는 고글입니다.",
+    "stage": 73,
+    "image_prompt": "실험실 고글, 실험실 고글, 눈을 안전하게 보호해주는 반짝이는 고글입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "모범생_badge_stage73",
+    "name": "모범생 배지",
+    "description": "\"규칙을 가장 잘 지키는 친구\" 배지입니다.",
+    "stage": 73,
+    "image_prompt": "badge, 모범생 배지, \"규칙을 가장 잘 지키는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "퍼즐_조각",
+    "name": "퍼즐 조각",
+    "description": "논리 퍼즐을 풀 때 얻은 신비한 조각입니다.",
+    "stage": 74,
+    "image_prompt": "퍼즐 조각, 퍼즐 조각, 논리 퍼즐을 풀 때 얻은 신비한 조각입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "논리_doctor_badge_stage74",
+    "name": "논리 박사 배지",
+    "description": "\"원인과 결과를 잘 설명하는 친구\" 배지입니다.",
+    "stage": 74,
+    "image_prompt": "badge, 논리 박사 배지, \"원인과 결과를 잘 설명하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "토론용_마이크",
+    "name": "토론용 마이크",
+    "description": "내 의견을 당당하게 말할 수 있게 해주는 마이크입니다.",
+    "stage": 75,
+    "image_prompt": "토론용 마이크, 토론용 마이크, 내 의견을 당당하게 말할 수 있게 해주는 마이크입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "생각쟁이_badge_stage75",
+    "name": "생각쟁이 배지",
+    "description": "\"자신의 생각을 잘 표현하는 친구\" 배지입니다.",
+    "stage": 75,
+    "image_prompt": "badge, 생각쟁이 배지, \"자신의 생각을 잘 표현하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "골동품_카메라",
+    "name": "골동품 카메라",
+    "description": "옛날 모습을 찍을 수 있는 오래된 카메라입니다.",
+    "stage": 76,
+    "image_prompt": "camera, 골동품 카메라, 옛날 모습을 찍을 수 있는 오래된 카메라입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "신구_조화_badge_stage76",
+    "name": "신구 조화 배지",
+    "description": "\"옛것과 새것의 가치를 모두 아는 친구\" 배지입니다.",
+    "stage": 76,
+    "image_prompt": "badge, 신구 조화 배지, \"옛것과 새것의 가치를 모두 아는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "퍼즐_master_박스",
+    "name": "퍼즐 마스터 박스",
+    "description": "모든 조각을 다 모으면 열리는 보물 상자입니다.",
+    "stage": 77,
+    "image_prompt": "퍼즐 마스터 박스, 퍼즐 마스터 박스, 모든 조각을 다 모으면 열리는 보물 상자입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "협동심_badge_stage77",
+    "name": "협동심 배지",
+    "description": "\"친구와 힘을 합쳐 문제를 해결하는 친구\" 배지입니다.",
+    "stage": 77,
+    "image_prompt": "badge, 협동심 배지, \"친구와 힘을 합쳐 문제를 해결하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "자물쇠가_달린_일기장",
+    "name": "자물쇠가 달린 일기장",
+    "description": "비밀을 지켜주는 튼튼한 자물쇠 일기장입니다.",
+    "stage": 78,
+    "image_prompt": "자물쇠가 달린 일기장, 자물쇠가 달린 일기장, 비밀을 지켜주는 튼튼한 자물쇠 일기장입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "비밀_요원_badge_stage78",
+    "name": "비밀 요원 배지",
+    "description": "\"중요한 비밀을 잘 간직하는 친구\" 배지입니다.",
+    "stage": 78,
+    "image_prompt": "badge, 비밀 요원 배지, \"중요한 비밀을 잘 간직하는 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "암호_해독기",
+    "name": "암호 해독기",
+    "description": "어려운 암호도 쉽게 풀어주는 작은 기계입니다.",
+    "stage": 79,
+    "image_prompt": "암호 해독기, 암호 해독기, 어려운 암호도 쉽게 풀어주는 작은 기계입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "해커_방어_badge_stage79",
+    "name": "해커 방어 배지",
+    "description": "\"보안을 철저히 지키는 똑똑한 친구\" 배지입니다.",
+    "stage": 79,
+    "image_prompt": "badge, 해커 방어 배지, \"보안을 철저히 지키는 똑똑한 친구\" 배지입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "doctor_hat",
+    "name": "박사 모자",
+    "description": "지혜로운 사람만 쓸 수 있는 멋진 박사 모자입니다.",
+    "stage": 80,
+    "image_prompt": "hat, 박사 모자, 지혜로운 사람만 쓸 수 있는 멋진 박사 모자입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "sticker",
+    "id": "lab_library_master_badge_stage80",
+    "name": "실험실/도서관 마스터 배지",
+    "description": "Zone 4를 완벽하게 통과했다는 증표입니다.",
+    "stage": 80,
+    "image_prompt": "badge, 실험실/도서관 마스터 배지, Zone 4를 완벽하게 통과했다는 증표입니다., Circular sticker design, die-cut sticker with thick white border, flat vector illustration, cute mascot style, pastel palette, iridescent highlights, game reward sticker, isolated on white"
+  },
+  {
+    "type": "item",
+    "id": "고속_엘리베이터_티켓",
+    "name": "고속 엘리베이터 티켓",
+    "description": "최상층까지 빠르게 갈 수 있는 특별한 티켓입니다.",
+    "stage": 81,
+    "image_prompt": "ticket, 고속 엘리베이터 티켓, 최상층까지 빠르게 갈 수 있는 특별한 티켓입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "구름_candy",
+    "name": "구름 솜사탕",
+    "description": "구름처럼 폭신폭신하고 달콤한 사탕입니다.",
+    "stage": 82,
+    "image_prompt": "candy, 구름 솜사탕, 구름처럼 폭신폭신하고 달콤한 사탕입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "스피드_신발",
+    "name": "스피드 신발",
+    "description": "신기만 해도 발걸음이 빨라지는 반짝이는 신발입니다.",
+    "stage": 83,
+    "image_prompt": "shoes, 스피드 신발, 신기만 해도 발걸음이 빨라지는 반짝이는 신발입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "투명_망토",
+    "name": "투명 망토",
+    "description": "로봇들의 눈을 피할 수 있는 신비한 망토입니다.",
+    "stage": 84,
+    "image_prompt": "cloak, 투명 망토, 로봇들의 눈을 피할 수 있는 신비한 망토입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "courage_훈장",
+    "name": "용기의 훈장",
+    "description": "용감한 마음을 가진 사람만 받을 수 있는 금빛 훈장입니다.",
+    "stage": 85,
+    "image_prompt": "용기의 훈장, 용기의 훈장, 용감한 마음을 가진 사람만 받을 수 있는 금빛 훈장입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "미래의_지도",
+    "name": "미래의 지도",
+    "description": "타워가 고쳐진 후 평화로운 세상의 모습을 보여주는 지도입니다.",
+    "stage": 86,
+    "image_prompt": "map, 미래의 지도, 타워가 고쳐진 후 평화로운 세상의 모습을 보여주는 지도입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "하트_펜던트",
+    "name": "하트 펜던트",
+    "description": "소중한 것을 잊지 않게 해주는 아름다운 펜던트입니다.",
+    "stage": 87,
+    "image_prompt": "하트 펜던트, 하트 펜던트, 소중한 것을 잊지 않게 해주는 아름다운 펜던트입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "실버_확성기",
+    "name": "실버 확성기",
+    "description": "목소리를 멀리까지 전달할 수 있는 반짝이는 확성기입니다.",
+    "stage": 88,
+    "image_prompt": "실버 확성기, 실버 확성기, 목소리를 멀리까지 전달할 수 있는 반짝이는 확성기입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "에너지_부스터",
+    "name": "에너지 부스터",
+    "description": "버디를 다시 쌩쌩하게 만들어줄 특별한 에너지 드링크입니다.",
+    "stage": 89,
+    "image_prompt": "energy, 에너지 부스터, 버디를 다시 쌩쌩하게 만들어줄 특별한 에너지 드링크입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  },
+  {
+    "type": "item",
+    "id": "master_코드",
+    "name": "마스터 코드",
+    "description": "마스터 AI의 시스템에 접속할 수 있는 비밀스러운 코드입니다.",
+    "stage": 90,
+    "image_prompt": "마스터 코드, 마스터 코드, 마스터 AI의 시스템에 접속할 수 있는 비밀스러운 코드입니다., Soft 2D illustration, cute stylized game icon, iridescent sheen, pastel purple and pink colors, sparkles and stars particles, white background, clean thick outlines, high quality"
+  }
+]

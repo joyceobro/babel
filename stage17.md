@@ -4,8 +4,8 @@
 경보음이 울려요! 경비 로봇들이 오고 있어요. 빨리 비상구를 향해 달려야 해요!
 
 [Main Dialogue (대화)]
-Buddy: "Hurry! **Run** to the exit!"
-(서둘러! 출구까지 **달려!**)
+Buddy: "Hurry! **Run** to the exit! Do you have the **Stop Remote**? We can use it if they get too close!"
+(서둘러! 출구까지 **달려!** **정지 리모컨** 가지고 있어? 경비들이 너무 가까이 오면 그걸 쓸 수 있어!)
 
 You: "I am **running**! But there is a hole in the floor!"
 (달리고 있어! 하지만 바닥에 구멍이 있어!)
@@ -16,8 +16,8 @@ Buddy: "**Jump** over it! **Jump** high!"
 You: "Whew, I did it. Now what?"
 (휴, 해냈어. 이제 어떡해?)
 
-Buddy: "Now **walk** quietly. The guards are near."
-(이제 조용히 **걸어**. 경비들이 가까이 있어.)
+Buddy: "Are you tired? Eat some **Buddy Candy**! Now **walk** quietly. Use your **soft shoes**! The guards are near."
+(힘드니? **버디 사탕** 좀 먹어! 이제 조용히 **걸어**. 네 **부드러운 신발**을 신어! 경비들이 가까이 있어.)
 
 [Stage 17 Quiz: 어떻게 움직일까요?]
 몸을 움직이는 여러 가지 동작을 영어로 골라보세요.

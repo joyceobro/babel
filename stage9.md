@@ -7,8 +7,8 @@
 Buddy: "Look at that! It's a **big** shadow! Is it a monster?"
 (저것 봐! 정말 **커다란** 그림자야! 괴물일까?)
 
-You: "No, look closely. It's just a **small** robot with a **long** stick."
-(아니야, 자세히 봐. 그냥 **긴** 막대기를 든 **작은** 로봇일 뿐이야.)
+You: "No, look closely with the **small flashlight**. It's just a **small** robot with a **long** stick."
+(아니야, **작은 손전등**으로 자세히 봐. 그냥 **긴** 막대기를 든 **작은** 로봇일 뿐이야.)
 
 Buddy: "Oh, you are right. The stick makes the shadow look **big**."
 (아, 네 말이 맞아. 막대기 때문에 그림자가 **커** 보였던 거구나.)

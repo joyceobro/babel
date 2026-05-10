@@ -16,8 +16,8 @@ Buddy: "Did you hear that? **Two-one-five-one**! That's **2151**!"
 You: "Yes! **Twenty-one** and **Fifty-one**? No, it's just **2151**."
 (응! **21**이랑 **51**? 아니, 그냥 **2151**이네.)
 
-Buddy: "Quick! Remember the number **2151**. We can open the door now!"
-(빨리! 숫자 **2151**을 기억해. 이제 문을 열 수 있어!)
+Buddy: "Quick! Remember the number **2151**. We can open the door now! Use the **Rusty Key Card** on the reader!"
+(빨리! 숫자 **2151**을 기억해. 이제 문을 열 수 있어! 카드 판독기에 **녹슨 카드키**를 사용해!)
 
 [Stage 15 Quiz: 숫자를 찾아라!]
 로봇들이 말한 암호를 정확히 맞혀보세요.

@@ -19,6 +19,9 @@ You: "One, two, three! I did it!"
 Cleaner Robot: "Thank you! You are so kind. **Help me** find my way back, too."
 (고마워요! 정말 친절하시네요. 제가 돌아가는 길도 **도와주세요**.)
 
+Buddy: "We will help you! Oh, and maybe we can use our **Rusty Key Card** on the way back!"
+(우리가 도와줄게! 아, 그리고 돌아가는 길에 우리 **녹슨 카드키**를 쓸 수 있을지도 몰라!)
+
 [Stage 13 Quiz: 도와주세요!]
 도움을 주고받을 때 사용하는 정중한 표현을 골라보세요.
 

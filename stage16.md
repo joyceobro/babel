@@ -10,11 +10,11 @@ Buddy: "This machine is old. You need to **push** the button."
 You: "Okay. I will **push** it. Oh, it's not working!"
 (알았어. **밀어볼게**. 어, 안 되는데!)
 
-Buddy: "Then try to **pull** the handle. **Pull** it hard!"
-(그럼 손잡이를 **당겨봐**. 세게 **당겨!**)
+Buddy: "Then try to **pull** the handle. **Pull** it hard! Use your **Number Code Table** to check if there are any other instructions!"
+(그럼 손잡이를 **당겨봐**. 세게 **당겨!** 네 **숫자 암호표**를 확인해서 다른 지시사항이 있는지 봐봐!)
 
-You: "I am **pulling**... Look! The lights are on!"
-(당기고 있어... 봐! 불이 들어왔어!)
+You: "I am **pulling**... Look! The lights are on! The **Rusty Key Card** really worked!"
+(당기고 있어... 봐! 불이 들어왔어! **녹슨 카드키**가 정말 효과가 있었네!)
 
 Buddy: "Great! **Push** for 'Yes', and **Pull** for 'No'."
 (잘했어! '예'는 **밀고**, '아니오'는 **당겨**.)

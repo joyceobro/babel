@@ -10,8 +10,8 @@ Buddy: "Wait! A guard robot is coming. Hide **behind** that big box!"
 You: "Okay! What about you, Buddy?"
 (알았어! 버디 너는?)
 
-Buddy: "I'll stay **next to** the pillar. Stay quiet!"
-(나는 기둥 **옆에** 있을게. 조용히 해!)
+Buddy: "I'll stay **next to** the pillar. Stay quiet! Use your **soft shoes** to walk silently!"
+(나는 기둥 **옆에** 있을게. 조용히 해! 네 **부드러운 신발**을 신어서 소리 내지 말고 걸어!)
 
 You: "I am scared. The camera is looking at the box."
 (무서워. 카메라가 상자를 보고 있어.)

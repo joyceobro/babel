@@ -7,11 +7,11 @@
 Buddy: "Oh no! I need energy. Can you see the cans?"
 (안돼! 에너지가 필요해. 저 캔들 보이니?)
 
-You: "Yes! There are many colors. Which one do you want?"
-(응! 색깔이 아주 많아. 어떤 걸 원해?)
+You: "Yes! There are many colors. Which one do you want? Should I give you the **Buddy Candy**, too?"
+(응! 색깔이 아주 많아. 어떤 걸 원해? 내가 가진 **버디 사탕**도 줄까?)
 
-Buddy: "I need the **red** one first. It's for my battery."
-(먼저 **빨간색**이 필요해. 내 배터리용이야.)
+Buddy: "That's a great idea! But first, I need the **red** one. It's for my battery."
+(좋은 생각이야! 하지만 먼저 **빨간색**이 필요해. 내 배터리용이야.)
 
 You: "Here is the **red** can. What about the **blue** one?"
 (여기 빨간 캔 있어. **파란색**은 어때?)

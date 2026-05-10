@@ -16,8 +16,8 @@ Buddy: "**Listen carefully.** It's coming from that box."
 You: "What is inside? Let's open it."
 (안에 뭐가 들었을까? 열어보자.)
 
-Buddy: "Wait! **Listen** again. It's a small bird robot!"
-(잠깐! 다시 **들어봐**. 작은 새 로봇이야!)
+Buddy: "Wait! **Listen** again. It's a small bird robot! I think it can help us use our **Rusty Key Card** later."
+(잠깐! 다시 **들어봐**. 작은 새 로봇이야! 저 친구가 나중에 우리 **녹슨 카드키**를 쓰는 걸 도와줄 수 있을 것 같아.)
 
 [Stage 14 Quiz: 귀를 기울여요!]
 소리를 들을 때 사용하는 표현을 익혀보세요.

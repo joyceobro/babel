@@ -10,8 +10,8 @@ Guard: "Where are you going? Stop right there!"
 You: "**Excuse me**, sir. We are just looking for the exit."
 (실례합니다만, 저희는 그냥 출구를 찾고 있어요.)
 
-Buddy: "Look at the wall! There is a big number **76**."
-(벽을 봐! 커다란 숫자 **76**이 있어.)
+Buddy: "Look at the wall! Use your **small flashlight**. There is a big number **76**."
+(벽을 봐! 네 **작은 손전등**을 비춰봐. 커다란 숫자 **76**이 있어.)
 
 Guard: "Number **76**? That is my favorite number! You can pass."
 (숫자 **76**? 내가 제일 좋아하는 숫자군! 지나가도 좋다.)

@@ -16,8 +16,8 @@ Buddy: "I am happy because I am with you! Look, I have a small light."
 You: "That is good. I am hungry, too."
 (다행이다. 나 배도 고파.)
 
-Buddy: "Don't worry. We can find some bread soon!"
-(걱정 마. 곧 빵을 찾을 수 있을 거야!)
+Buddy: "Don't worry. We can find some bread soon! Oh, wait! Do you have the **Buddy Candy**? It can give you energy!"
+(걱정 마. 곧 빵을 찾을 수 있을 거야! 아, 맞다! 너 **버디 사탕** 있지? 그거 먹으면 기운이 날 거야!)
 
 [Stage 2 Quiz: 기분을 말해봐요!]
 버디에게 당신의 상태를 정확히 알려줘야 해요.

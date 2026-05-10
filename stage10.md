@@ -10,8 +10,8 @@ Buddy: "I am so hungry. You have some bread, right?"
 You: "Yes, I have one piece. But look at that little robot."
 (응, 한 조각 있어. 하지만 저 꼬마 로봇 좀 봐.)
 
-Buddy: "**Why don't we** share the bread with him?"
-(우리 저 로봇이랑 빵을 **나눠 먹는 게 어때?** )
+Buddy: "**Why don't we** share the bread with him? Maybe your **Magic Key Ring** can't open these bars, but being kind will help!"
+(우리 저 로봇이랑 빵을 **나눠 먹는 게 어때?** 네 **마법의 열쇠고리**로 이 창살을 열 순 없겠지만, 친절을 베푸는 건 도움이 될 거야!)
 
 You: "That's a great idea! Hey, little robot! **Why don't we** eat together?"
 (좋은 생각이야! 얘야, 우리 **같이 먹을래?** )

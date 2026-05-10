@@ -1,7 +1,7 @@
 # Stage 3: 멈춰선 로봇 (The Sleeping Robot)
 
 [상황 설명]
-복도 한가운데에 커다란 로봇이 길을 막고 서 있어요. 눈에 불이 꺼져 있는 걸 보니 잠시 멈춰 있는 것 같아요.
+복도 한가운데에 커다란 로봇이 길을 막고 서 있어요. 복도가 어두워서 잘 안 보이지만, **작은 손전등**을 비춰보니 눈에 불이 꺼져 있는 걸 보니 잠시 멈춰 있는 것 같아요.
 
 [Main Dialogue (대화)]
 Buddy: "Wait! A robot is sleeping. We must be very quiet."

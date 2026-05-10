@@ -3,7 +3,7 @@
 label stage_4:
     scene stage4_bg with fade
     
-    "We arrived in front of a large iron door. This door is special; it only opens if you say 'Open' or 'Close'."
+    "커다란 철문 앞에 도착했어요. 이 문은 특이하게도 '열려라!'와 '닫혀라!'라는 말을 알아들어야 열린대요."
     
     show buddy_lovely_happy at center with dissolve
     
@@ -30,9 +30,11 @@ label stage_4_quiz:
                 b "Yes! The door opens."
             "Close":
                 b "No, it's already closed! Try again."
+                $ wrong_answer()
                 jump s4_q1
             "Hello":
                 b "The door doesn't care about greetings! Try again."
+                $ wrong_answer()
                 jump s4_q1
 
     # Question 2
@@ -41,11 +43,13 @@ label stage_4_quiz:
         menu:
             "Open":
                 b "No, that opens it! Try again."
+                $ wrong_answer()
                 jump s4_q2
             "Close":
                 b "Correct! It shuts tight."
             "Sit":
                 b "The door cannot sit! Try again."
+                $ wrong_answer()
                 jump s4_q2
 
     # Question 3
@@ -54,9 +58,11 @@ label stage_4_quiz:
         menu:
             "느리게":
                 b "No, that's 'slowly'. Try again."
+                $ wrong_answer()
                 jump s4_q3
             "조용히":
                 b "No, that's 'quietly'. Try again."
+                $ wrong_answer()
                 jump s4_q3
             "빠르게":
                 b "Yes! Speed is important."
@@ -64,8 +70,8 @@ label stage_4_quiz:
     # Reward and ending of stage 4
     b "You are getting better at this! Let's go through the door."
     
-    "You got a Magic Keychain for luck."
-    "You earned the Gatekeeper Sticker!"
+    $ add_reward(reward_type="item", id="마법의_열쇠고리", name="마법의 열쇠고리", description="문을 더 쉽게 열 수 있게 도와주는 행운의 열쇠고리입니다.")
+    $ add_reward(reward_type="sticker", id="문지기_sticker_stage4", name="문지기 스티커", description="\"문을 잘 여는 친구\" 스티커를 받았습니다.")
 
     b "Stay sharp!"
     

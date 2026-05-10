@@ -16,8 +16,8 @@ Buddy: "Haha! I understand. **I don't like** spicy food either."
 You: "There is some bread here. **I like** bread very much!"
 (여기 빵이 좀 있어. 난 빵을 정말 **좋아해!**)
 
-Buddy: "Great! Let's eat some bread and go."
-(좋아! 빵을 좀 먹고 가자.)
+Buddy: "Great! Let's eat some bread and go. By the way, do you have that **Rusty Key Card**? We might need it soon."
+(좋아! 빵을 좀 먹고 가자. 그런데, 그 **녹슨 카드키** 가지고 있지? 곧 필요할지도 몰라.)
 
 [Stage 11 Quiz: 무엇을 좋아하나요?]
 좋아하는 것과 싫어하는 것을 영어로 표현해 보세요.
